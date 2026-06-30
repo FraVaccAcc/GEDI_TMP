@@ -1,0 +1,4121 @@
+{
+  "version": "2026-06-30",
+  "locales": [
+    "it",
+    "en"
+  ],
+  "categories": [
+    {
+      "code": "monument",
+      "label": {
+        "it": "Monumenti",
+        "en": "Monuments"
+      }
+    },
+    {
+      "code": "church",
+      "label": {
+        "it": "Chiese",
+        "en": "Churches"
+      }
+    },
+    {
+      "code": "museum",
+      "label": {
+        "it": "Musei",
+        "en": "Museums"
+      }
+    },
+    {
+      "code": "park",
+      "label": {
+        "it": "Parchi e giardini",
+        "en": "Parks & Gardens"
+      }
+    },
+    {
+      "code": "architecture",
+      "label": {
+        "it": "Architetture",
+        "en": "Architectural landmarks"
+      }
+    },
+    {
+      "code": "restaurant",
+      "label": {
+        "it": "Ristoranti",
+        "en": "Restaurants"
+      }
+    }
+  ],
+  "tagLabels": {
+    "antica-roma": {
+      "it": "Antica Roma",
+      "en": "Ancient Rome"
+    },
+    "archeologia": {
+      "it": "Archeologia",
+      "en": "Archaeology"
+    },
+    "barocco": {
+      "it": "Barocco",
+      "en": "Baroque"
+    },
+    "rinascimento": {
+      "it": "Rinascimento",
+      "en": "Renaissance"
+    },
+    "medioevo": {
+      "it": "Medioevo",
+      "en": "Middle Ages"
+    },
+    "architettura": {
+      "it": "Architettura",
+      "en": "Architecture"
+    },
+    "cupola": {
+      "it": "Cupola",
+      "en": "Dome"
+    },
+    "panorama": {
+      "it": "Panorama",
+      "en": "Panorama"
+    },
+    "fontana": {
+      "it": "Fontana",
+      "en": "Fountain"
+    },
+    "piazza": {
+      "it": "Piazza",
+      "en": "Square"
+    },
+    "arte": {
+      "it": "Arte",
+      "en": "Art"
+    },
+    "caravaggio": {
+      "it": "Caravaggio",
+      "en": "Caravaggio"
+    },
+    "bernini": {
+      "it": "Bernini",
+      "en": "Bernini"
+    },
+    "michelangelo": {
+      "it": "Michelangelo",
+      "en": "Michelangelo"
+    },
+    "vaticano": {
+      "it": "Vaticano",
+      "en": "Vatican"
+    },
+    "unesco": {
+      "it": "Patrimonio UNESCO",
+      "en": "UNESCO Heritage"
+    },
+    "gratis": {
+      "it": "Ingresso gratuito",
+      "en": "Free entry"
+    },
+    "giardino": {
+      "it": "Giardino",
+      "en": "Garden"
+    },
+    "natura": {
+      "it": "Natura",
+      "en": "Nature"
+    },
+    "vista": {
+      "it": "Vista panoramica",
+      "en": "Scenic view"
+    },
+    "trastevere": {
+      "it": "Trastevere",
+      "en": "Trastevere"
+    },
+    "street-food": {
+      "it": "Street food",
+      "en": "Street food"
+    },
+    "cucina-romana": {
+      "it": "Cucina romana",
+      "en": "Roman cuisine"
+    },
+    "gelato": {
+      "it": "Gelato",
+      "en": "Gelato"
+    },
+    "pizza": {
+      "it": "Pizza",
+      "en": "Pizza"
+    },
+    "famiglia": {
+      "it": "Per famiglie",
+      "en": "Family-friendly"
+    },
+    "mosaici": {
+      "it": "Mosaici",
+      "en": "Mosaics"
+    },
+    "affreschi": {
+      "it": "Affreschi",
+      "en": "Frescoes"
+    }
+  },
+  "pois": [
+    {
+      "id": "colosseo",
+      "category": "monument",
+      "name": {
+        "it": "Colosseo",
+        "en": "Colosseum"
+      },
+      "shortDescription": {
+        "it": "L'anfiteatro più grande del mondo antico, simbolo di Roma.",
+        "en": "The largest amphitheatre of the ancient world, the symbol of Rome."
+      },
+      "description": {
+        "it": "Inaugurato nell'80 d.C., l'Anfiteatro Flavio ospitava fino a 50.000 spettatori per giochi gladiatori e spettacoli. Oggi se ne visitano arena, cavea e sotterranei, raccontando duemila anni di storia romana.",
+        "en": "Inaugurated in 80 AD, the Flavian Amphitheatre held up to 50,000 spectators for gladiatorial games and shows. Today you can visit the arena, the tiers and the underground passages that tell two thousand years of Roman history."
+      },
+      "coordinates": {
+        "lat": 41.8902,
+        "lng": 12.4922
+      },
+      "address": "Piazza del Colosseo, 1, 00184 Roma RM",
+      "images": [
+        {
+          "url": "colosseo/hero.jpg",
+          "alt": {
+            "it": "Il Colosseo al tramonto",
+            "en": "The Colosseum at sunset"
+          }
+        },
+        {
+          "url": "colosseo/2.jpg",
+          "alt": {
+            "it": "L'interno e l'arena del Colosseo",
+            "en": "The interior and arena of the Colosseum"
+          }
+        },
+        {
+          "url": "colosseo/3.jpg",
+          "alt": {
+            "it": "Il Colosseo illuminato di notte",
+            "en": "The Colosseum illuminated at night"
+          }
+        }
+      ],
+      "openingHours": {
+        "weekly": [
+          {
+            "day": 0,
+            "slots": [
+              {
+                "open": "09:00",
+                "close": "19:00"
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "slots": [
+              {
+                "open": "09:00",
+                "close": "19:00"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "slots": [
+              {
+                "open": "09:00",
+                "close": "19:00"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "slots": [
+              {
+                "open": "09:00",
+                "close": "19:00"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "slots": [
+              {
+                "open": "09:00",
+                "close": "19:00"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "slots": [
+              {
+                "open": "09:00",
+                "close": "19:00"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "slots": [
+              {
+                "open": "09:00",
+                "close": "19:00"
+              }
+            ]
+          }
+        ],
+        "note": {
+          "it": "Ultimo ingresso un'ora prima della chiusura.",
+          "en": "Last entry one hour before closing."
+        }
+      },
+      "admission": {
+        "free": false,
+        "priceFrom": 18,
+        "note": {
+          "it": "Biglietto combinato con Foro Romano e Palatino.",
+          "en": "Combined ticket with Roman Forum and Palatine."
+        }
+      },
+      "website": "https://parcocolosseo.it",
+      "tags": [
+        "antica-roma",
+        "archeologia",
+        "unesco"
+      ],
+      "relatedPoiIds": [
+        "foro-romano",
+        "arco-di-costantino",
+        "musei-capitolini"
+      ],
+      "details": {
+        "category": "monument",
+        "epoch": {
+          "it": "I secolo d.C.",
+          "en": "1st century AD"
+        },
+        "style": {
+          "it": "Romano imperiale",
+          "en": "Imperial Roman"
+        },
+        "buildYear": 80,
+        "patron": {
+          "it": "Imperatori Flavi",
+          "en": "Flavian emperors"
+        }
+      }
+    },
+    {
+      "id": "pantheon",
+      "category": "monument",
+      "name": {
+        "it": "Pantheon",
+        "en": "Pantheon"
+      },
+      "shortDescription": {
+        "it": "Il tempio meglio conservato dell'antica Roma.",
+        "en": "Ancient Rome's best-preserved temple."
+      },
+      "description": {
+        "it": "Ricostruito da Adriano nel II secolo, il Pantheon conserva la più grande cupola in calcestruzzo non armato mai realizzata, con il celebre oculo aperto sul cielo. Dal Rinascimento è anche luogo di sepoltura, tra cui la tomba di Raffaello.",
+        "en": "Rebuilt by Hadrian in the 2nd century, the Pantheon holds the largest unreinforced concrete dome ever built, crowned by its famous oculus open to the sky. Since the Renaissance it has also been a burial place, including the tomb of Raphael."
+      },
+      "coordinates": {
+        "lat": 41.8986,
+        "lng": 12.4769
+      },
+      "address": "Piazza della Rotonda, 00186 Roma RM",
+      "images": [
+        {
+          "url": "pantheon/hero.jpg",
+          "alt": {
+            "it": "L'esterno del Pantheon con il pronao",
+            "en": "The exterior of the Pantheon with its portico"
+          }
+        },
+        {
+          "url": "pantheon/2.jpg",
+          "alt": {
+            "it": "L'interno del Pantheon con l'oculo",
+            "en": "The interior of the Pantheon with the oculus"
+          }
+        },
+        {
+          "url": "pantheon/3.jpg",
+          "alt": {
+            "it": "Il Pantheon da Piazza della Rotonda",
+            "en": "The Pantheon from Piazza della Rotonda"
+          }
+        }
+      ],
+      "openingHours": {
+        "weekly": [
+          {
+            "day": 0,
+            "slots": [
+              {
+                "open": "09:00",
+                "close": "19:00"
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "slots": [
+              {
+                "open": "09:00",
+                "close": "19:00"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "slots": [
+              {
+                "open": "09:00",
+                "close": "19:00"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "slots": [
+              {
+                "open": "09:00",
+                "close": "19:00"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "slots": [
+              {
+                "open": "09:00",
+                "close": "19:00"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "slots": [
+              {
+                "open": "09:00",
+                "close": "19:00"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "slots": [
+              {
+                "open": "09:00",
+                "close": "19:00"
+              }
+            ]
+          }
+        ]
+      },
+      "admission": {
+        "free": false,
+        "priceFrom": 5,
+        "note": {
+          "it": "Gratuito per i residenti a Roma in alcune giornate.",
+          "en": "Free for Rome residents on selected days."
+        }
+      },
+      "website": "https://www.pantheonroma.com",
+      "tags": [
+        "antica-roma",
+        "cupola",
+        "architettura"
+      ],
+      "relatedPoiIds": [
+        "piazza-navona",
+        "santa-maria-sopra-minerva",
+        "san-luigi-dei-francesi"
+      ],
+      "details": {
+        "category": "monument",
+        "epoch": {
+          "it": "II secolo d.C.",
+          "en": "2nd century AD"
+        },
+        "style": {
+          "it": "Romano",
+          "en": "Roman"
+        },
+        "buildYear": 126
+      }
+    },
+    {
+      "id": "fontana-di-trevi",
+      "category": "monument",
+      "name": {
+        "it": "Fontana di Trevi",
+        "en": "Trevi Fountain"
+      },
+      "shortDescription": {
+        "it": "La più scenografica fontana barocca di Roma.",
+        "en": "Rome's most spectacular Baroque fountain."
+      },
+      "description": {
+        "it": "Capolavoro di Nicola Salvi completato nel 1762, addossata a Palazzo Poli, mette in scena Oceano sul suo carro tra cavalli marini. La tradizione vuole che lanciando una moneta si assicuri il ritorno a Roma.",
+        "en": "A masterpiece by Nicola Salvi completed in 1762 and set against Palazzo Poli, it stages Oceanus on his chariot among sea horses. Tradition says that tossing a coin guarantees a return to Rome."
+      },
+      "coordinates": {
+        "lat": 41.9009,
+        "lng": 12.4833
+      },
+      "address": "Piazza di Trevi, 00187 Roma RM",
+      "images": [
+        {
+          "url": "fontana-di-trevi/hero.jpg",
+          "alt": {
+            "it": "La Fontana di Trevi",
+            "en": "The Trevi Fountain"
+          }
+        }
+      ],
+      "admission": {
+        "free": true
+      },
+      "tags": [
+        "barocco",
+        "fontana",
+        "gratis"
+      ],
+      "relatedPoiIds": [
+        "pantheon",
+        "piazza-di-spagna",
+        "palazzo-barberini"
+      ],
+      "details": {
+        "category": "monument",
+        "epoch": {
+          "it": "XVIII secolo",
+          "en": "18th century"
+        },
+        "style": {
+          "it": "Barocco",
+          "en": "Baroque"
+        },
+        "buildYear": 1762,
+        "patron": {
+          "it": "Nicola Salvi",
+          "en": "Nicola Salvi"
+        }
+      }
+    },
+    {
+      "id": "foro-romano",
+      "category": "monument",
+      "name": {
+        "it": "Foro Romano",
+        "en": "Roman Forum"
+      },
+      "shortDescription": {
+        "it": "Il cuore politico e religioso dell'antica Roma.",
+        "en": "The political and religious heart of ancient Rome."
+      },
+      "description": {
+        "it": "Per secoli centro della vita pubblica, il Foro conserva templi, basiliche e archi trionfali tra cui la Via Sacra. Passeggiare tra le rovine significa attraversare la storia della repubblica e dell'impero.",
+        "en": "For centuries the centre of public life, the Forum preserves temples, basilicas and triumphal arches along the Via Sacra. Walking among the ruins means crossing the history of the Republic and the Empire."
+      },
+      "coordinates": {
+        "lat": 41.8925,
+        "lng": 12.4853
+      },
+      "address": "Via della Salara Vecchia, 5/6, 00186 Roma RM",
+      "images": [
+        {
+          "url": "foro-romano/hero.jpg",
+          "alt": {
+            "it": "Le rovine del Foro Romano",
+            "en": "The ruins of the Roman Forum"
+          }
+        }
+      ],
+      "openingHours": {
+        "weekly": [
+          {
+            "day": 0,
+            "slots": [
+              {
+                "open": "09:00",
+                "close": "19:00"
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "slots": [
+              {
+                "open": "09:00",
+                "close": "19:00"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "slots": [
+              {
+                "open": "09:00",
+                "close": "19:00"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "slots": [
+              {
+                "open": "09:00",
+                "close": "19:00"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "slots": [
+              {
+                "open": "09:00",
+                "close": "19:00"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "slots": [
+              {
+                "open": "09:00",
+                "close": "19:00"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "slots": [
+              {
+                "open": "09:00",
+                "close": "19:00"
+              }
+            ]
+          }
+        ]
+      },
+      "admission": {
+        "free": false,
+        "priceFrom": 18,
+        "note": {
+          "it": "Incluso nel biglietto del Colosseo.",
+          "en": "Included in the Colosseum ticket."
+        }
+      },
+      "website": "https://parcocolosseo.it",
+      "tags": [
+        "antica-roma",
+        "archeologia",
+        "unesco"
+      ],
+      "relatedPoiIds": [
+        "colosseo",
+        "campidoglio",
+        "arco-di-costantino"
+      ],
+      "details": {
+        "category": "monument",
+        "epoch": {
+          "it": "VII secolo a.C. – VI secolo d.C.",
+          "en": "7th c. BC – 6th c. AD"
+        },
+        "style": {
+          "it": "Romano",
+          "en": "Roman"
+        }
+      }
+    },
+    {
+      "id": "arco-di-costantino",
+      "category": "monument",
+      "name": {
+        "it": "Arco di Costantino",
+        "en": "Arch of Constantine"
+      },
+      "shortDescription": {
+        "it": "Il più grande arco trionfale romano giunto fino a noi.",
+        "en": "The largest surviving Roman triumphal arch."
+      },
+      "description": {
+        "it": "Eretto nel 315 d.C. per celebrare la vittoria di Costantino a Ponte Milvio, riutilizza rilievi di monumenti precedenti. Sorge tra il Colosseo e il Palatino, lungo il percorso dei trionfi.",
+        "en": "Erected in 315 AD to celebrate Constantine's victory at the Milvian Bridge, it reuses reliefs from earlier monuments. It stands between the Colosseum and the Palatine, along the triumphal route."
+      },
+      "coordinates": {
+        "lat": 41.8898,
+        "lng": 12.4905
+      },
+      "address": "Via di San Gregorio, 00186 Roma RM",
+      "images": [
+        {
+          "url": "arco-di-costantino/hero.jpg",
+          "alt": {
+            "it": "L'Arco di Costantino",
+            "en": "The Arch of Constantine"
+          }
+        }
+      ],
+      "admission": {
+        "free": true
+      },
+      "tags": [
+        "antica-roma",
+        "archeologia",
+        "gratis"
+      ],
+      "relatedPoiIds": [
+        "colosseo",
+        "foro-romano"
+      ],
+      "details": {
+        "category": "monument",
+        "epoch": {
+          "it": "IV secolo d.C.",
+          "en": "4th century AD"
+        },
+        "style": {
+          "it": "Romano imperiale",
+          "en": "Imperial Roman"
+        },
+        "buildYear": 315
+      }
+    },
+    {
+      "id": "castel-sant-angelo",
+      "category": "monument",
+      "name": {
+        "it": "Castel Sant'Angelo",
+        "en": "Castel Sant'Angelo"
+      },
+      "shortDescription": {
+        "it": "Mausoleo imperiale, fortezza papale e oggi museo.",
+        "en": "Imperial mausoleum, papal fortress and today a museum."
+      },
+      "description": {
+        "it": "Nato come mausoleo di Adriano, fu trasformato in fortezza collegata al Vaticano dal Passetto di Borgo. La rampa elicoidale conduce alle sale papali e alla terrazza, con una delle viste più belle su Roma.",
+        "en": "Built as Hadrian's mausoleum, it became a fortress linked to the Vatican by the Passetto di Borgo. A spiral ramp leads to the papal apartments and the terrace, offering one of the finest views over Rome."
+      },
+      "coordinates": {
+        "lat": 41.9031,
+        "lng": 12.4663
+      },
+      "address": "Lungotevere Castello, 50, 00193 Roma RM",
+      "images": [
+        {
+          "url": "castel-sant-angelo/hero.jpg",
+          "alt": {
+            "it": "Castel Sant'Angelo sul Tevere",
+            "en": "Castel Sant'Angelo on the Tiber"
+          }
+        }
+      ],
+      "openingHours": {
+        "weekly": [
+          {
+            "day": 0,
+            "slots": [
+              {
+                "open": "09:00",
+                "close": "19:30"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "slots": [
+              {
+                "open": "09:00",
+                "close": "19:30"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "slots": [
+              {
+                "open": "09:00",
+                "close": "19:30"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "slots": [
+              {
+                "open": "09:00",
+                "close": "19:30"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "slots": [
+              {
+                "open": "09:00",
+                "close": "19:30"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "slots": [
+              {
+                "open": "09:00",
+                "close": "19:30"
+              }
+            ]
+          }
+        ],
+        "note": {
+          "it": "Chiuso il lunedì.",
+          "en": "Closed on Mondays."
+        }
+      },
+      "admission": {
+        "free": false,
+        "priceFrom": 16
+      },
+      "website": "https://castelsantangelo.cultura.gov.it",
+      "tags": [
+        "medioevo",
+        "panorama",
+        "vista"
+      ],
+      "relatedPoiIds": [
+        "san-pietro",
+        "piazza-navona"
+      ],
+      "details": {
+        "category": "monument",
+        "epoch": {
+          "it": "II secolo d.C.",
+          "en": "2nd century AD"
+        },
+        "style": {
+          "it": "Romano e medievale",
+          "en": "Roman and medieval"
+        },
+        "buildYear": 139
+      }
+    },
+    {
+      "id": "san-pietro",
+      "category": "church",
+      "name": {
+        "it": "Basilica di San Pietro",
+        "en": "St. Peter's Basilica"
+      },
+      "shortDescription": {
+        "it": "La più grande chiesa della cristianità, in Vaticano.",
+        "en": "The largest church in Christendom, in the Vatican."
+      },
+      "description": {
+        "it": "Costruita sul luogo della tomba dell'apostolo Pietro, è il capolavoro corale di Bramante, Michelangelo, Maderno e Bernini. All'interno la Pietà di Michelangelo e il baldacchino bronzeo; dalla cupola si domina tutta Roma.",
+        "en": "Built over the tomb of the apostle Peter, it is the collective masterpiece of Bramante, Michelangelo, Maderno and Bernini. Inside are Michelangelo's Pietà and Bernini's bronze baldachin; the dome offers sweeping views over Rome."
+      },
+      "coordinates": {
+        "lat": 41.9022,
+        "lng": 12.4539
+      },
+      "address": "Piazza San Pietro, 00120 Città del Vaticano",
+      "images": [
+        {
+          "url": "san-pietro/hero.jpg",
+          "alt": {
+            "it": "La facciata e la cupola di San Pietro",
+            "en": "The façade and dome of St. Peter's"
+          }
+        }
+      ],
+      "openingHours": {
+        "weekly": [
+          {
+            "day": 0,
+            "slots": [
+              {
+                "open": "07:00",
+                "close": "19:00"
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "slots": [
+              {
+                "open": "07:00",
+                "close": "19:00"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "slots": [
+              {
+                "open": "07:00",
+                "close": "19:00"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "slots": [
+              {
+                "open": "07:00",
+                "close": "19:00"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "slots": [
+              {
+                "open": "07:00",
+                "close": "19:00"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "slots": [
+              {
+                "open": "07:00",
+                "close": "19:00"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "slots": [
+              {
+                "open": "07:00",
+                "close": "19:00"
+              }
+            ]
+          }
+        ],
+        "note": {
+          "it": "Possibili chiusure durante le celebrazioni.",
+          "en": "May close during celebrations."
+        }
+      },
+      "admission": {
+        "free": true,
+        "note": {
+          "it": "Basilica gratuita; cupola a pagamento.",
+          "en": "Basilica free; dome paid."
+        }
+      },
+      "website": "https://www.vatican.va",
+      "tags": [
+        "vaticano",
+        "cupola",
+        "michelangelo",
+        "gratis",
+        "panorama"
+      ],
+      "relatedPoiIds": [
+        "musei-vaticani",
+        "castel-sant-angelo"
+      ],
+      "details": {
+        "category": "church",
+        "confession": {
+          "it": "Cattolica romana",
+          "en": "Roman Catholic"
+        },
+        "artworks": {
+          "it": "Pietà di Michelangelo, baldacchino del Bernini",
+          "en": "Michelangelo's Pietà, Bernini's baldachin"
+        },
+        "dressCode": {
+          "it": "Spalle e ginocchia coperte.",
+          "en": "Shoulders and knees must be covered."
+        }
+      }
+    },
+    {
+      "id": "santa-maria-maggiore",
+      "category": "church",
+      "name": {
+        "it": "Basilica di Santa Maria Maggiore",
+        "en": "Basilica of Santa Maria Maggiore"
+      },
+      "shortDescription": {
+        "it": "Basilica papale celebre per i mosaici paleocristiani.",
+        "en": "Papal basilica famed for its early Christian mosaics."
+      },
+      "description": {
+        "it": "Una delle quattro basiliche papali, conserva splendidi mosaici del V secolo lungo la navata e un soffitto a cassettoni dorato. Fonde elementi paleocristiani, medievali e barocchi.",
+        "en": "One of the four papal basilicas, it preserves splendid 5th-century mosaics along the nave and a gilded coffered ceiling. It blends early Christian, medieval and Baroque elements."
+      },
+      "coordinates": {
+        "lat": 41.8976,
+        "lng": 12.4986
+      },
+      "address": "Piazza di Santa Maria Maggiore, 00100 Roma RM",
+      "images": [
+        {
+          "url": "santa-maria-maggiore/hero.jpg",
+          "alt": {
+            "it": "Interno di Santa Maria Maggiore",
+            "en": "Interior of Santa Maria Maggiore"
+          }
+        }
+      ],
+      "openingHours": {
+        "weekly": [
+          {
+            "day": 0,
+            "slots": [
+              {
+                "open": "07:00",
+                "close": "18:45"
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "slots": [
+              {
+                "open": "07:00",
+                "close": "18:45"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "slots": [
+              {
+                "open": "07:00",
+                "close": "18:45"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "slots": [
+              {
+                "open": "07:00",
+                "close": "18:45"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "slots": [
+              {
+                "open": "07:00",
+                "close": "18:45"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "slots": [
+              {
+                "open": "07:00",
+                "close": "18:45"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "slots": [
+              {
+                "open": "07:00",
+                "close": "18:45"
+              }
+            ]
+          }
+        ]
+      },
+      "admission": {
+        "free": true
+      },
+      "website": "https://www.vatican.va",
+      "tags": [
+        "mosaici",
+        "gratis",
+        "arte"
+      ],
+      "relatedPoiIds": [
+        "san-giovanni-in-laterano",
+        "santa-maria-sopra-minerva"
+      ],
+      "details": {
+        "category": "church",
+        "confession": {
+          "it": "Cattolica romana",
+          "en": "Roman Catholic"
+        },
+        "artworks": {
+          "it": "Mosaici del V secolo, Cappella Sistina e Paolina",
+          "en": "5th-century mosaics, Sistine and Pauline chapels"
+        }
+      }
+    },
+    {
+      "id": "san-giovanni-in-laterano",
+      "category": "church",
+      "name": {
+        "it": "San Giovanni in Laterano",
+        "en": "St. John Lateran"
+      },
+      "shortDescription": {
+        "it": "La cattedrale di Roma, madre di tutte le chiese.",
+        "en": "The cathedral of Rome, mother of all churches."
+      },
+      "description": {
+        "it": "Cattedrale del vescovo di Roma, vanta una maestosa facciata settecentesca con le statue dei santi e un interno rimodellato dal Borromini. Di fronte si trovano l'obelisco più alto di Roma e la Scala Santa.",
+        "en": "The cathedral of the Bishop of Rome boasts a majestic 18th-century façade lined with statues of saints and an interior redesigned by Borromini. Opposite stand Rome's tallest obelisk and the Holy Stairs."
+      },
+      "coordinates": {
+        "lat": 41.8859,
+        "lng": 12.5057
+      },
+      "address": "Piazza di S. Giovanni in Laterano, 4, 00184 Roma RM",
+      "images": [
+        {
+          "url": "san-giovanni-in-laterano/hero.jpg",
+          "alt": {
+            "it": "Facciata di San Giovanni in Laterano",
+            "en": "Façade of St. John Lateran"
+          }
+        }
+      ],
+      "openingHours": {
+        "weekly": [
+          {
+            "day": 0,
+            "slots": [
+              {
+                "open": "07:00",
+                "close": "18:30"
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "slots": [
+              {
+                "open": "07:00",
+                "close": "18:30"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "slots": [
+              {
+                "open": "07:00",
+                "close": "18:30"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "slots": [
+              {
+                "open": "07:00",
+                "close": "18:30"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "slots": [
+              {
+                "open": "07:00",
+                "close": "18:30"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "slots": [
+              {
+                "open": "07:00",
+                "close": "18:30"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "slots": [
+              {
+                "open": "07:00",
+                "close": "18:30"
+              }
+            ]
+          }
+        ]
+      },
+      "admission": {
+        "free": true,
+        "note": {
+          "it": "Chiostro a pagamento.",
+          "en": "Cloister requires a ticket."
+        }
+      },
+      "tags": [
+        "barocco",
+        "gratis",
+        "arte"
+      ],
+      "relatedPoiIds": [
+        "santa-maria-maggiore",
+        "colosseo"
+      ],
+      "details": {
+        "category": "church",
+        "confession": {
+          "it": "Cattolica romana",
+          "en": "Roman Catholic"
+        },
+        "artworks": {
+          "it": "Statue degli apostoli, chiostro cosmatesco",
+          "en": "Statues of the apostles, Cosmatesque cloister"
+        }
+      }
+    },
+    {
+      "id": "santa-maria-sopra-minerva",
+      "category": "church",
+      "name": {
+        "it": "Santa Maria sopra Minerva",
+        "en": "Santa Maria sopra Minerva"
+      },
+      "shortDescription": {
+        "it": "L'unica chiesa gotica di Roma, dietro il Pantheon.",
+        "en": "Rome's only Gothic church, behind the Pantheon."
+      },
+      "description": {
+        "it": "Edificata su un antico tempio, sorprende con le sue volte stellate blu. Custodisce il Cristo redentore di Michelangelo e affreschi di Filippino Lippi; davanti, l'elefantino del Bernini regge un obelisco egizio.",
+        "en": "Built over an ancient temple, it surprises with its blue star-spangled vaults. It holds Michelangelo's Risen Christ and frescoes by Filippino Lippi; outside, Bernini's little elephant carries an Egyptian obelisk."
+      },
+      "coordinates": {
+        "lat": 41.8981,
+        "lng": 12.4779
+      },
+      "address": "Piazza della Minerva, 42, 00186 Roma RM",
+      "images": [
+        {
+          "url": "santa-maria-sopra-minerva/hero.jpg",
+          "alt": {
+            "it": "Volte gotiche della Minerva",
+            "en": "Gothic vaults of the Minerva"
+          }
+        }
+      ],
+      "openingHours": {
+        "weekly": [
+          {
+            "day": 0,
+            "slots": [
+              {
+                "open": "10:00",
+                "close": "13:00"
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "slots": [
+              {
+                "open": "10:00",
+                "close": "13:00"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "slots": [
+              {
+                "open": "10:00",
+                "close": "13:00"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "slots": [
+              {
+                "open": "10:00",
+                "close": "13:00"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "slots": [
+              {
+                "open": "10:00",
+                "close": "13:00"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "slots": [
+              {
+                "open": "10:00",
+                "close": "13:00"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "slots": [
+              {
+                "open": "10:00",
+                "close": "13:00"
+              }
+            ]
+          }
+        ]
+      },
+      "admission": {
+        "free": true
+      },
+      "tags": [
+        "medioevo",
+        "michelangelo",
+        "bernini",
+        "gratis"
+      ],
+      "relatedPoiIds": [
+        "pantheon",
+        "san-luigi-dei-francesi"
+      ],
+      "details": {
+        "category": "church",
+        "confession": {
+          "it": "Cattolica romana",
+          "en": "Roman Catholic"
+        },
+        "artworks": {
+          "it": "Cristo della Minerva di Michelangelo, affreschi di Filippino Lippi",
+          "en": "Michelangelo's Christ, frescoes by Filippino Lippi"
+        }
+      }
+    },
+    {
+      "id": "san-luigi-dei-francesi",
+      "category": "church",
+      "name": {
+        "it": "San Luigi dei Francesi",
+        "en": "San Luigi dei Francesi"
+      },
+      "shortDescription": {
+        "it": "Tre capolavori di Caravaggio in una sola cappella.",
+        "en": "Three Caravaggio masterpieces in a single chapel."
+      },
+      "description": {
+        "it": "Chiesa nazionale dei francesi a Roma, custodisce nella Cappella Contarelli il ciclo di San Matteo di Caravaggio: vocazione, ispirazione e martirio, dove la luce diventa protagonista.",
+        "en": "The national church of the French in Rome holds, in the Contarelli Chapel, Caravaggio's cycle of St. Matthew — the calling, the inspiration and the martyrdom — where light becomes the protagonist."
+      },
+      "coordinates": {
+        "lat": 41.899,
+        "lng": 12.4744
+      },
+      "address": "Piazza di S. Luigi de' Francesi, 00186 Roma RM",
+      "images": [
+        {
+          "url": "san-luigi-dei-francesi/hero.jpg",
+          "alt": {
+            "it": "Interno di San Luigi dei Francesi",
+            "en": "Interior of San Luigi dei Francesi"
+          }
+        }
+      ],
+      "openingHours": {
+        "weekly": [
+          {
+            "day": 0,
+            "slots": [
+              {
+                "open": "09:30",
+                "close": "12:45"
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "slots": [
+              {
+                "open": "09:30",
+                "close": "12:45"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "slots": [
+              {
+                "open": "09:30",
+                "close": "12:45"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "slots": [
+              {
+                "open": "09:30",
+                "close": "12:45"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "slots": [
+              {
+                "open": "09:30",
+                "close": "12:45"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "slots": [
+              {
+                "open": "09:30",
+                "close": "12:45"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "slots": [
+              {
+                "open": "09:30",
+                "close": "12:45"
+              }
+            ]
+          }
+        ]
+      },
+      "admission": {
+        "free": true
+      },
+      "tags": [
+        "caravaggio",
+        "arte",
+        "barocco",
+        "gratis"
+      ],
+      "relatedPoiIds": [
+        "piazza-navona",
+        "pantheon",
+        "santa-maria-sopra-minerva"
+      ],
+      "details": {
+        "category": "church",
+        "confession": {
+          "it": "Cattolica romana",
+          "en": "Roman Catholic"
+        },
+        "artworks": {
+          "it": "Ciclo di San Matteo di Caravaggio",
+          "en": "Caravaggio's St. Matthew cycle"
+        }
+      }
+    },
+    {
+      "id": "santa-maria-in-trastevere",
+      "category": "church",
+      "name": {
+        "it": "Santa Maria in Trastevere",
+        "en": "Santa Maria in Trastevere"
+      },
+      "shortDescription": {
+        "it": "Mosaici dorati nel cuore di Trastevere.",
+        "en": "Golden mosaics in the heart of Trastevere."
+      },
+      "description": {
+        "it": "Tra le più antiche chiese mariane di Roma, domina una piazza vivace con la sua fontana. La facciata e l'abside brillano di mosaici medievali dorati, tra cui le storie della Vergine di Pietro Cavallini.",
+        "en": "One of Rome's oldest churches dedicated to Mary, it overlooks a lively square with its fountain. The façade and apse glow with gilded medieval mosaics, including Pietro Cavallini's Life of the Virgin."
+      },
+      "coordinates": {
+        "lat": 41.8895,
+        "lng": 12.4693
+      },
+      "address": "Piazza di Santa Maria in Trastevere, 00153 Roma RM",
+      "images": [
+        {
+          "url": "santa-maria-in-trastevere/hero.jpg",
+          "alt": {
+            "it": "Mosaici di Santa Maria in Trastevere",
+            "en": "Mosaics of Santa Maria in Trastevere"
+          }
+        }
+      ],
+      "openingHours": {
+        "weekly": [
+          {
+            "day": 0,
+            "slots": [
+              {
+                "open": "07:30",
+                "close": "20:00"
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "slots": [
+              {
+                "open": "07:30",
+                "close": "20:00"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "slots": [
+              {
+                "open": "07:30",
+                "close": "20:00"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "slots": [
+              {
+                "open": "07:30",
+                "close": "20:00"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "slots": [
+              {
+                "open": "07:30",
+                "close": "20:00"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "slots": [
+              {
+                "open": "07:30",
+                "close": "20:00"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "slots": [
+              {
+                "open": "07:30",
+                "close": "20:00"
+              }
+            ]
+          }
+        ]
+      },
+      "admission": {
+        "free": true
+      },
+      "tags": [
+        "mosaici",
+        "trastevere",
+        "medioevo",
+        "gratis"
+      ],
+      "relatedPoiIds": [
+        "orto-botanico",
+        "da-enzo-al-29"
+      ],
+      "details": {
+        "category": "church",
+        "confession": {
+          "it": "Cattolica romana",
+          "en": "Roman Catholic"
+        },
+        "artworks": {
+          "it": "Mosaici di Pietro Cavallini",
+          "en": "Mosaics by Pietro Cavallini"
+        }
+      }
+    },
+    {
+      "id": "musei-vaticani",
+      "category": "museum",
+      "name": {
+        "it": "Musei Vaticani",
+        "en": "Vatican Museums"
+      },
+      "shortDescription": {
+        "it": "Collezioni papali e la Cappella Sistina di Michelangelo.",
+        "en": "Papal collections and Michelangelo's Sistine Chapel."
+      },
+      "description": {
+        "it": "Uno dei complessi museali più visitati al mondo: dalle statue classiche alle Stanze di Raffaello, fino alla volta della Cappella Sistina affrescata da Michelangelo. Un percorso di chilometri tra arte di ogni epoca.",
+        "en": "One of the most visited museum complexes in the world: from classical statuary to the Raphael Rooms and the ceiling of the Sistine Chapel frescoed by Michelangelo. Kilometres of art across every era."
+      },
+      "coordinates": {
+        "lat": 41.9065,
+        "lng": 12.4536
+      },
+      "address": "Viale Vaticano, 00165 Roma RM",
+      "images": [
+        {
+          "url": "musei-vaticani/hero.jpg",
+          "alt": {
+            "it": "Scala elicoidale dei Musei Vaticani",
+            "en": "Spiral staircase of the Vatican Museums"
+          }
+        }
+      ],
+      "openingHours": {
+        "weekly": [
+          {
+            "day": 1,
+            "slots": [
+              {
+                "open": "09:00",
+                "close": "18:00"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "slots": [
+              {
+                "open": "09:00",
+                "close": "18:00"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "slots": [
+              {
+                "open": "09:00",
+                "close": "18:00"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "slots": [
+              {
+                "open": "09:00",
+                "close": "18:00"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "slots": [
+              {
+                "open": "09:00",
+                "close": "18:00"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "slots": [
+              {
+                "open": "09:00",
+                "close": "18:00"
+              }
+            ]
+          }
+        ],
+        "note": {
+          "it": "Chiusi la domenica, salvo l'ultima del mese (gratuita).",
+          "en": "Closed on Sundays, except the last of the month (free)."
+        }
+      },
+      "admission": {
+        "free": false,
+        "priceFrom": 20,
+        "note": {
+          "it": "Prenotazione fortemente consigliata.",
+          "en": "Booking strongly recommended."
+        }
+      },
+      "website": "https://www.museivaticani.va",
+      "tags": [
+        "vaticano",
+        "arte",
+        "michelangelo",
+        "affreschi"
+      ],
+      "relatedPoiIds": [
+        "san-pietro",
+        "galleria-borghese"
+      ],
+      "details": {
+        "category": "museum",
+        "durationMinutes": 180,
+        "collections": {
+          "it": "Cappella Sistina, Stanze di Raffaello, Pinacoteca",
+          "en": "Sistine Chapel, Raphael Rooms, Pinacoteca"
+        },
+        "bookingRequired": true
+      }
+    },
+    {
+      "id": "galleria-borghese",
+      "category": "museum",
+      "name": {
+        "it": "Galleria Borghese",
+        "en": "Borghese Gallery"
+      },
+      "shortDescription": {
+        "it": "Bernini e Caravaggio in una villa nel verde.",
+        "en": "Bernini and Caravaggio in a villa amid greenery."
+      },
+      "description": {
+        "it": "La collezione del cardinale Scipione Borghese riunisce sculture di Bernini come Apollo e Dafne e dipinti di Caravaggio, Tiziano e Raffaello. L'ingresso è a fasce orarie contingentate, immerso nel parco di Villa Borghese.",
+        "en": "Cardinal Scipione Borghese's collection brings together Bernini sculptures such as Apollo and Daphne and paintings by Caravaggio, Titian and Raphael. Entry is by timed slots, set within the park of Villa Borghese."
+      },
+      "coordinates": {
+        "lat": 41.9142,
+        "lng": 12.4922
+      },
+      "address": "Piazzale Scipione Borghese, 5, 00197 Roma RM",
+      "images": [
+        {
+          "url": "galleria-borghese/hero.jpg",
+          "alt": {
+            "it": "Apollo e Dafne del Bernini",
+            "en": "Bernini's Apollo and Daphne"
+          }
+        }
+      ],
+      "openingHours": {
+        "weekly": [
+          {
+            "day": 0,
+            "slots": [
+              {
+                "open": "09:00",
+                "close": "19:00"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "slots": [
+              {
+                "open": "09:00",
+                "close": "19:00"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "slots": [
+              {
+                "open": "09:00",
+                "close": "19:00"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "slots": [
+              {
+                "open": "09:00",
+                "close": "19:00"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "slots": [
+              {
+                "open": "09:00",
+                "close": "19:00"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "slots": [
+              {
+                "open": "09:00",
+                "close": "19:00"
+              }
+            ]
+          }
+        ],
+        "note": {
+          "it": "Chiusa il lunedì. Ingressi ogni due ore.",
+          "en": "Closed on Mondays. Entry every two hours."
+        }
+      },
+      "admission": {
+        "free": false,
+        "priceFrom": 13,
+        "note": {
+          "it": "Prenotazione obbligatoria.",
+          "en": "Booking mandatory."
+        }
+      },
+      "website": "https://galleriaborghese.beniculturali.it",
+      "tags": [
+        "arte",
+        "bernini",
+        "caravaggio"
+      ],
+      "relatedPoiIds": [
+        "villa-borghese",
+        "musei-vaticani"
+      ],
+      "details": {
+        "category": "museum",
+        "durationMinutes": 120,
+        "collections": {
+          "it": "Sculture del Bernini, dipinti di Caravaggio e Tiziano",
+          "en": "Bernini sculptures, paintings by Caravaggio and Titian"
+        },
+        "bookingRequired": true
+      }
+    },
+    {
+      "id": "musei-capitolini",
+      "category": "museum",
+      "name": {
+        "it": "Musei Capitolini",
+        "en": "Capitoline Museums"
+      },
+      "shortDescription": {
+        "it": "I più antichi musei pubblici del mondo, sul Campidoglio.",
+        "en": "The world's oldest public museums, on the Capitoline Hill."
+      },
+      "description": {
+        "it": "Affacciati sulla piazza michelangiolesca del Campidoglio, custodiscono capolavori come la Lupa Capitolina e il Galata morente. Dalla terrazza, vista spettacolare sul Foro Romano.",
+        "en": "Overlooking Michelangelo's Capitoline square, they hold masterpieces such as the Capitoline Wolf and the Dying Gaul. From the terrace there is a spectacular view over the Roman Forum."
+      },
+      "coordinates": {
+        "lat": 41.8932,
+        "lng": 12.4828
+      },
+      "address": "Piazza del Campidoglio, 1, 00186 Roma RM",
+      "images": [
+        {
+          "url": "musei-capitolini/hero.jpg",
+          "alt": {
+            "it": "Cortile dei Musei Capitolini",
+            "en": "Courtyard of the Capitoline Museums"
+          }
+        }
+      ],
+      "openingHours": {
+        "weekly": [
+          {
+            "day": 0,
+            "slots": [
+              {
+                "open": "09:30",
+                "close": "19:30"
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "slots": [
+              {
+                "open": "09:30",
+                "close": "19:30"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "slots": [
+              {
+                "open": "09:30",
+                "close": "19:30"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "slots": [
+              {
+                "open": "09:30",
+                "close": "19:30"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "slots": [
+              {
+                "open": "09:30",
+                "close": "19:30"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "slots": [
+              {
+                "open": "09:30",
+                "close": "19:30"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "slots": [
+              {
+                "open": "09:30",
+                "close": "19:30"
+              }
+            ]
+          }
+        ]
+      },
+      "admission": {
+        "free": false,
+        "priceFrom": 13
+      },
+      "website": "https://www.museicapitolini.org",
+      "tags": [
+        "antica-roma",
+        "arte",
+        "panorama"
+      ],
+      "relatedPoiIds": [
+        "campidoglio",
+        "foro-romano",
+        "altare-della-patria"
+      ],
+      "details": {
+        "category": "museum",
+        "durationMinutes": 120,
+        "collections": {
+          "it": "Lupa Capitolina, Galata morente, Pinacoteca",
+          "en": "Capitoline Wolf, Dying Gaul, Pinacoteca"
+        },
+        "bookingRequired": false
+      }
+    },
+    {
+      "id": "galleria-doria-pamphilj",
+      "category": "museum",
+      "name": {
+        "it": "Galleria Doria Pamphilj",
+        "en": "Doria Pamphilj Gallery"
+      },
+      "shortDescription": {
+        "it": "Una quadreria principesca ancora abitata.",
+        "en": "A princely picture gallery still inhabited."
+      },
+      "description": {
+        "it": "Nascosta in un palazzo su via del Corso, la collezione privata della famiglia Doria Pamphilj allinea centinaia di dipinti, tra cui il celebre ritratto di Innocenzo X di Velázquez. Le sale dorate conservano l'atmosfera di una dimora nobiliare.",
+        "en": "Hidden in a palace on Via del Corso, the Doria Pamphilj family's private collection lines up hundreds of paintings, including Velázquez's famous portrait of Innocent X. The gilded halls preserve the atmosphere of a noble residence."
+      },
+      "coordinates": {
+        "lat": 41.8979,
+        "lng": 12.4815
+      },
+      "address": "Via del Corso, 305, 00186 Roma RM",
+      "images": [
+        {
+          "url": "galleria-doria-pamphilj/hero.jpg",
+          "alt": {
+            "it": "Galleria degli specchi Doria Pamphilj",
+            "en": "Doria Pamphilj hall of mirrors"
+          }
+        }
+      ],
+      "openingHours": {
+        "weekly": [
+          {
+            "day": 0,
+            "slots": [
+              {
+                "open": "09:00",
+                "close": "19:00"
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "slots": [
+              {
+                "open": "09:00",
+                "close": "19:00"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "slots": [
+              {
+                "open": "09:00",
+                "close": "19:00"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "slots": [
+              {
+                "open": "09:00",
+                "close": "19:00"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "slots": [
+              {
+                "open": "09:00",
+                "close": "19:00"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "slots": [
+              {
+                "open": "09:00",
+                "close": "19:00"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "slots": [
+              {
+                "open": "09:00",
+                "close": "19:00"
+              }
+            ]
+          }
+        ]
+      },
+      "admission": {
+        "free": false,
+        "priceFrom": 16,
+        "note": {
+          "it": "Audioguida inclusa.",
+          "en": "Audio guide included."
+        }
+      },
+      "website": "https://www.doriapamphilj.it",
+      "tags": [
+        "arte",
+        "barocco"
+      ],
+      "relatedPoiIds": [
+        "fontana-di-trevi",
+        "pantheon"
+      ],
+      "details": {
+        "category": "museum",
+        "durationMinutes": 90,
+        "collections": {
+          "it": "Velázquez, Caravaggio, Tiziano",
+          "en": "Velázquez, Caravaggio, Titian"
+        },
+        "bookingRequired": false
+      }
+    },
+    {
+      "id": "palazzo-barberini",
+      "category": "museum",
+      "name": {
+        "it": "Palazzo Barberini",
+        "en": "Palazzo Barberini"
+      },
+      "shortDescription": {
+        "it": "Galleria Nazionale d'Arte Antica in un palazzo barocco.",
+        "en": "National Gallery of Ancient Art in a Baroque palace."
+      },
+      "description": {
+        "it": "Capolavoro di Bernini e Borromini, ospita opere di Raffaello, Caravaggio e Holbein. Da non perdere l'affresco del Trionfo della Divina Provvidenza di Pietro da Cortona sulla volta del salone.",
+        "en": "A masterpiece by Bernini and Borromini, it houses works by Raphael, Caravaggio and Holbein. Don't miss Pietro da Cortona's Triumph of Divine Providence fresco on the ceiling of the great hall."
+      },
+      "coordinates": {
+        "lat": 41.9035,
+        "lng": 12.4889
+      },
+      "address": "Via delle Quattro Fontane, 13, 00184 Roma RM",
+      "images": [
+        {
+          "url": "palazzo-barberini/hero.jpg",
+          "alt": {
+            "it": "Salone di Palazzo Barberini",
+            "en": "Great hall of Palazzo Barberini"
+          }
+        }
+      ],
+      "openingHours": {
+        "weekly": [
+          {
+            "day": 0,
+            "slots": [
+              {
+                "open": "10:00",
+                "close": "19:00"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "slots": [
+              {
+                "open": "10:00",
+                "close": "19:00"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "slots": [
+              {
+                "open": "10:00",
+                "close": "19:00"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "slots": [
+              {
+                "open": "10:00",
+                "close": "19:00"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "slots": [
+              {
+                "open": "10:00",
+                "close": "19:00"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "slots": [
+              {
+                "open": "10:00",
+                "close": "19:00"
+              }
+            ]
+          }
+        ],
+        "note": {
+          "it": "Chiuso il lunedì.",
+          "en": "Closed on Mondays."
+        }
+      },
+      "admission": {
+        "free": false,
+        "priceFrom": 12
+      },
+      "website": "https://www.barberinicorsini.org",
+      "tags": [
+        "arte",
+        "barocco",
+        "caravaggio",
+        "affreschi"
+      ],
+      "relatedPoiIds": [
+        "fontana-di-trevi",
+        "galleria-borghese"
+      ],
+      "details": {
+        "category": "museum",
+        "durationMinutes": 90,
+        "collections": {
+          "it": "La Fornarina di Raffaello, affresco di Pietro da Cortona",
+          "en": "Raphael's La Fornarina, Pietro da Cortona's fresco"
+        },
+        "bookingRequired": false
+      }
+    },
+    {
+      "id": "maxxi",
+      "category": "museum",
+      "name": {
+        "it": "MAXXI",
+        "en": "MAXXI"
+      },
+      "shortDescription": {
+        "it": "Il museo nazionale delle arti del XXI secolo.",
+        "en": "The national museum of 21st-century arts."
+      },
+      "description": {
+        "it": "Progettato da Zaha Hadid, il MAXXI è esso stesso un'opera d'arte fatta di curve di cemento e luce. Ospita arte contemporanea e architettura con mostre temporanee di respiro internazionale.",
+        "en": "Designed by Zaha Hadid, the MAXXI is itself a work of art made of curving concrete and light. It hosts contemporary art and architecture with international temporary exhibitions."
+      },
+      "coordinates": {
+        "lat": 41.9283,
+        "lng": 12.4665
+      },
+      "address": "Via Guido Reni, 4A, 00196 Roma RM",
+      "images": [
+        {
+          "url": "maxxi/hero.jpg",
+          "alt": {
+            "it": "Architettura del MAXXI di Zaha Hadid",
+            "en": "Zaha Hadid's MAXXI architecture"
+          }
+        }
+      ],
+      "openingHours": {
+        "weekly": [
+          {
+            "day": 0,
+            "slots": [
+              {
+                "open": "11:00",
+                "close": "19:00"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "slots": [
+              {
+                "open": "11:00",
+                "close": "19:00"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "slots": [
+              {
+                "open": "11:00",
+                "close": "19:00"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "slots": [
+              {
+                "open": "11:00",
+                "close": "19:00"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "slots": [
+              {
+                "open": "11:00",
+                "close": "19:00"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "slots": [
+              {
+                "open": "11:00",
+                "close": "19:00"
+              }
+            ]
+          }
+        ],
+        "note": {
+          "it": "Chiuso il lunedì.",
+          "en": "Closed on Mondays."
+        }
+      },
+      "admission": {
+        "free": false,
+        "priceFrom": 12
+      },
+      "website": "https://www.maxxi.art",
+      "tags": [
+        "arte",
+        "architettura"
+      ],
+      "relatedPoiIds": [
+        "villa-borghese",
+        "piazza-del-popolo"
+      ],
+      "details": {
+        "category": "museum",
+        "durationMinutes": 90,
+        "collections": {
+          "it": "Arte e architettura contemporanea",
+          "en": "Contemporary art and architecture"
+        },
+        "bookingRequired": false
+      }
+    },
+    {
+      "id": "villa-borghese",
+      "category": "park",
+      "name": {
+        "it": "Villa Borghese",
+        "en": "Villa Borghese"
+      },
+      "shortDescription": {
+        "it": "Il giardino-salotto di Roma, tra musei e laghetto.",
+        "en": "Rome's living-room park, with museums and a lake."
+      },
+      "description": {
+        "it": "Il più celebre parco di Roma unisce viali alberati, giardini all'italiana, un laghetto con tempietto e numerosi musei. Ideale per una pausa, una pedalata o un picnic con vista dal Pincio.",
+        "en": "Rome's most famous park combines tree-lined avenues, Italian gardens, a lake with a small temple and several museums. Perfect for a break, a bike ride or a picnic with a view from the Pincio."
+      },
+      "coordinates": {
+        "lat": 41.9145,
+        "lng": 12.4847
+      },
+      "address": "Piazzale Napoleone I, 00197 Roma RM",
+      "images": [
+        {
+          "url": "villa-borghese/hero.jpg",
+          "alt": {
+            "it": "Il laghetto di Villa Borghese",
+            "en": "The lake of Villa Borghese"
+          }
+        }
+      ],
+      "openingHours": {
+        "weekly": [
+          {
+            "day": 0,
+            "slots": [
+              {
+                "open": "06:00",
+                "close": "21:00"
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "slots": [
+              {
+                "open": "06:00",
+                "close": "21:00"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "slots": [
+              {
+                "open": "06:00",
+                "close": "21:00"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "slots": [
+              {
+                "open": "06:00",
+                "close": "21:00"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "slots": [
+              {
+                "open": "06:00",
+                "close": "21:00"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "slots": [
+              {
+                "open": "06:00",
+                "close": "21:00"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "slots": [
+              {
+                "open": "06:00",
+                "close": "21:00"
+              }
+            ]
+          }
+        ],
+        "note": {
+          "it": "Sempre accessibile; orari indicativi.",
+          "en": "Always accessible; hours are indicative."
+        }
+      },
+      "admission": {
+        "free": true
+      },
+      "tags": [
+        "giardino",
+        "natura",
+        "famiglia",
+        "gratis",
+        "panorama"
+      ],
+      "relatedPoiIds": [
+        "galleria-borghese",
+        "piazza-del-popolo",
+        "piazza-di-spagna"
+      ],
+      "details": {
+        "category": "park",
+        "facilities": {
+          "it": "Noleggio bici, laghetto, aree gioco, bar",
+          "en": "Bike rental, lake, playgrounds, cafés"
+        },
+        "extension": {
+          "it": "Circa 80 ettari",
+          "en": "About 80 hectares"
+        },
+        "seasonality": {
+          "it": "Aperto tutto l'anno",
+          "en": "Open all year"
+        }
+      }
+    },
+    {
+      "id": "villa-doria-pamphilj",
+      "category": "park",
+      "name": {
+        "it": "Villa Doria Pamphilj",
+        "en": "Villa Doria Pamphilj"
+      },
+      "shortDescription": {
+        "it": "Il parco pubblico più grande di Roma.",
+        "en": "Rome's largest public park."
+      },
+      "description": {
+        "it": "Un tempo tenuta nobiliare, oggi è un'oasi di pini, prati e fontane amata da chi corre e dalle famiglie. Al centro il seicentesco Casino del Bel Respiro con i suoi giardini segreti.",
+        "en": "Once a noble estate, today it is an oasis of pines, lawns and fountains loved by runners and families. At its centre stands the 17th-century Casino del Bel Respiro with its secret gardens."
+      },
+      "coordinates": {
+        "lat": 41.893,
+        "lng": 12.449
+      },
+      "address": "Via di San Pancrazio, 00152 Roma RM",
+      "images": [
+        {
+          "url": "villa-doria-pamphilj/hero.jpg",
+          "alt": {
+            "it": "Viali di Villa Doria Pamphilj",
+            "en": "Avenues of Villa Doria Pamphilj"
+          }
+        }
+      ],
+      "openingHours": {
+        "weekly": [
+          {
+            "day": 0,
+            "slots": [
+              {
+                "open": "07:00",
+                "close": "20:00"
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "slots": [
+              {
+                "open": "07:00",
+                "close": "20:00"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "slots": [
+              {
+                "open": "07:00",
+                "close": "20:00"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "slots": [
+              {
+                "open": "07:00",
+                "close": "20:00"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "slots": [
+              {
+                "open": "07:00",
+                "close": "20:00"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "slots": [
+              {
+                "open": "07:00",
+                "close": "20:00"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "slots": [
+              {
+                "open": "07:00",
+                "close": "20:00"
+              }
+            ]
+          }
+        ]
+      },
+      "admission": {
+        "free": true
+      },
+      "tags": [
+        "giardino",
+        "natura",
+        "gratis",
+        "famiglia"
+      ],
+      "relatedPoiIds": [
+        "santa-maria-in-trastevere",
+        "orto-botanico"
+      ],
+      "details": {
+        "category": "park",
+        "facilities": {
+          "it": "Percorsi running, laghetti, bar",
+          "en": "Running paths, ponds, café"
+        },
+        "extension": {
+          "it": "Circa 184 ettari",
+          "en": "About 184 hectares"
+        },
+        "seasonality": {
+          "it": "Aperto tutto l'anno",
+          "en": "Open all year"
+        }
+      }
+    },
+    {
+      "id": "giardino-degli-aranci",
+      "category": "park",
+      "name": {
+        "it": "Giardino degli Aranci",
+        "en": "Orange Garden"
+      },
+      "shortDescription": {
+        "it": "Una terrazza profumata con vista su Roma.",
+        "en": "A fragrant terrace overlooking Rome."
+      },
+      "description": {
+        "it": "Sul colle Aventino, il Parco Savello deve il nome agli aranci amari che lo popolano. Dalla terrazza si gode uno dei tramonti più romantici sulla cupola di San Pietro; poco distante, il celebre buco della serratura.",
+        "en": "On the Aventine Hill, Parco Savello takes its name from the bitter orange trees that fill it. Its terrace offers one of the most romantic sunsets over St. Peter's dome; nearby is the famous keyhole."
+      },
+      "coordinates": {
+        "lat": 41.8841,
+        "lng": 12.4797
+      },
+      "address": "Piazza Pietro D'Illiria, 00153 Roma RM",
+      "images": [
+        {
+          "url": "giardino-degli-aranci/hero.jpg",
+          "alt": {
+            "it": "Vista dal Giardino degli Aranci",
+            "en": "View from the Orange Garden"
+          }
+        }
+      ],
+      "openingHours": {
+        "weekly": [
+          {
+            "day": 0,
+            "slots": [
+              {
+                "open": "07:00",
+                "close": "18:00"
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "slots": [
+              {
+                "open": "07:00",
+                "close": "18:00"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "slots": [
+              {
+                "open": "07:00",
+                "close": "18:00"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "slots": [
+              {
+                "open": "07:00",
+                "close": "18:00"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "slots": [
+              {
+                "open": "07:00",
+                "close": "18:00"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "slots": [
+              {
+                "open": "07:00",
+                "close": "18:00"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "slots": [
+              {
+                "open": "07:00",
+                "close": "18:00"
+              }
+            ]
+          }
+        ]
+      },
+      "admission": {
+        "free": true
+      },
+      "tags": [
+        "giardino",
+        "panorama",
+        "vista",
+        "gratis"
+      ],
+      "relatedPoiIds": [
+        "santa-maria-in-trastevere",
+        "campidoglio"
+      ],
+      "details": {
+        "category": "park",
+        "facilities": {
+          "it": "Terrazza panoramica",
+          "en": "Panoramic terrace"
+        },
+        "extension": {
+          "it": "Circa 7.800 m²",
+          "en": "About 7,800 m²"
+        },
+        "seasonality": {
+          "it": "Aperto tutto l'anno",
+          "en": "Open all year"
+        }
+      }
+    },
+    {
+      "id": "orto-botanico",
+      "category": "park",
+      "name": {
+        "it": "Orto Botanico di Roma",
+        "en": "Rome Botanical Garden"
+      },
+      "shortDescription": {
+        "it": "Dodici ettari di piante ai piedi del Gianicolo.",
+        "en": "Twelve hectares of plants at the foot of the Janiculum."
+      },
+      "description": {
+        "it": "Nei giardini di Palazzo Corsini, l'Orto Botanico raccoglie collezioni di bambù, palme, felci e un roseto storico. Un rifugio verde e didattico a due passi da Trastevere.",
+        "en": "In the gardens of Palazzo Corsini, the Botanical Garden gathers collections of bamboo, palms, ferns and a historic rose garden. A green, educational refuge a stone's throw from Trastevere."
+      },
+      "coordinates": {
+        "lat": 41.8915,
+        "lng": 12.4659
+      },
+      "address": "Largo Cristina di Svezia, 23A-24, 00165 Roma RM",
+      "images": [
+        {
+          "url": "orto-botanico/hero.jpg",
+          "alt": {
+            "it": "Serre dell'Orto Botanico",
+            "en": "Greenhouses of the Botanical Garden"
+          }
+        }
+      ],
+      "openingHours": {
+        "weekly": [
+          {
+            "day": 0,
+            "slots": [
+              {
+                "open": "09:00",
+                "close": "18:30"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "slots": [
+              {
+                "open": "09:00",
+                "close": "18:30"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "slots": [
+              {
+                "open": "09:00",
+                "close": "18:30"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "slots": [
+              {
+                "open": "09:00",
+                "close": "18:30"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "slots": [
+              {
+                "open": "09:00",
+                "close": "18:30"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "slots": [
+              {
+                "open": "09:00",
+                "close": "18:30"
+              }
+            ]
+          }
+        ],
+        "note": {
+          "it": "Chiuso il lunedì.",
+          "en": "Closed on Mondays."
+        }
+      },
+      "admission": {
+        "free": false,
+        "priceFrom": 4
+      },
+      "tags": [
+        "giardino",
+        "natura",
+        "famiglia",
+        "trastevere"
+      ],
+      "relatedPoiIds": [
+        "santa-maria-in-trastevere",
+        "villa-doria-pamphilj"
+      ],
+      "details": {
+        "category": "park",
+        "facilities": {
+          "it": "Serre, roseto, area bambù",
+          "en": "Greenhouses, rose garden, bamboo grove"
+        },
+        "extension": {
+          "it": "Circa 12 ettari",
+          "en": "About 12 hectares"
+        },
+        "seasonality": {
+          "it": "Collezioni variabili per stagione",
+          "en": "Collections vary by season"
+        }
+      }
+    },
+    {
+      "id": "parco-degli-acquedotti",
+      "category": "park",
+      "name": {
+        "it": "Parco degli Acquedotti",
+        "en": "Park of the Aqueducts"
+      },
+      "shortDescription": {
+        "it": "Acquedotti romani in un paesaggio da cartolina.",
+        "en": "Roman aqueducts in a postcard landscape."
+      },
+      "description": {
+        "it": "Parte del Parco dell'Appia Antica, deve il nome ai maestosi acquedotti che lo attraversano. Prati, pini e arcate millenarie ne fanno un set cinematografico amato da fotografi e corridori.",
+        "en": "Part of the Appian Way Park, it owes its name to the majestic aqueducts that cross it. Meadows, pines and thousand-year-old arches make it a cinematic backdrop loved by photographers and runners."
+      },
+      "coordinates": {
+        "lat": 41.8525,
+        "lng": 12.564
+      },
+      "address": "Via Lemonia, 256, 00174 Roma RM",
+      "images": [
+        {
+          "url": "parco-degli-acquedotti/hero.jpg",
+          "alt": {
+            "it": "Gli acquedotti romani nel parco",
+            "en": "The Roman aqueducts in the park"
+          }
+        }
+      ],
+      "openingHours": {
+        "weekly": [
+          {
+            "day": 0,
+            "slots": [
+              {
+                "open": "06:00",
+                "close": "20:00"
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "slots": [
+              {
+                "open": "06:00",
+                "close": "20:00"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "slots": [
+              {
+                "open": "06:00",
+                "close": "20:00"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "slots": [
+              {
+                "open": "06:00",
+                "close": "20:00"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "slots": [
+              {
+                "open": "06:00",
+                "close": "20:00"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "slots": [
+              {
+                "open": "06:00",
+                "close": "20:00"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "slots": [
+              {
+                "open": "06:00",
+                "close": "20:00"
+              }
+            ]
+          }
+        ]
+      },
+      "admission": {
+        "free": true
+      },
+      "tags": [
+        "antica-roma",
+        "natura",
+        "panorama",
+        "gratis"
+      ],
+      "relatedPoiIds": [
+        "foro-romano",
+        "colosseo"
+      ],
+      "details": {
+        "category": "park",
+        "facilities": {
+          "it": "Percorsi a piedi e in bici",
+          "en": "Walking and cycling paths"
+        },
+        "extension": {
+          "it": "Circa 240 ettari",
+          "en": "About 240 hectares"
+        },
+        "seasonality": {
+          "it": "Aperto tutto l'anno",
+          "en": "Open all year"
+        }
+      }
+    },
+    {
+      "id": "piazza-navona",
+      "category": "architecture",
+      "name": {
+        "it": "Piazza Navona",
+        "en": "Piazza Navona"
+      },
+      "shortDescription": {
+        "it": "Il salotto barocco di Roma sull'antico stadio di Domiziano.",
+        "en": "Rome's Baroque drawing room over Domitian's ancient stadium."
+      },
+      "description": {
+        "it": "Sull'impianto dell'antico stadio di Domiziano, la piazza è dominata dalla Fontana dei Quattro Fiumi del Bernini e dalla chiesa di Sant'Agnese del Borromini. Tra artisti di strada e caffè storici, è il cuore della Roma barocca.",
+        "en": "Built on the outline of Domitian's ancient stadium, the square is dominated by Bernini's Fountain of the Four Rivers and Borromini's church of Sant'Agnese. With street artists and historic cafés, it is the heart of Baroque Rome."
+      },
+      "coordinates": {
+        "lat": 41.8992,
+        "lng": 12.4731
+      },
+      "address": "Piazza Navona, 00186 Roma RM",
+      "images": [
+        {
+          "url": "piazza-navona/hero.jpg",
+          "alt": {
+            "it": "Fontana dei Quattro Fiumi in Piazza Navona",
+            "en": "Fountain of the Four Rivers in Piazza Navona"
+          }
+        }
+      ],
+      "admission": {
+        "free": true
+      },
+      "tags": [
+        "barocco",
+        "piazza",
+        "bernini",
+        "fontana",
+        "gratis"
+      ],
+      "relatedPoiIds": [
+        "pantheon",
+        "san-luigi-dei-francesi",
+        "castel-sant-angelo"
+      ],
+      "details": {
+        "category": "architecture",
+        "type": {
+          "it": "Piazza",
+          "en": "Square"
+        },
+        "epoch": {
+          "it": "XVII secolo",
+          "en": "17th century"
+        },
+        "architect": {
+          "it": "Bernini, Borromini",
+          "en": "Bernini, Borromini"
+        },
+        "interiorsVisitable": false,
+        "curiosity": {
+          "it": "Segue la forma dell'antico stadio del I secolo.",
+          "en": "It follows the shape of the 1st-century stadium."
+        }
+      }
+    },
+    {
+      "id": "piazza-di-spagna",
+      "category": "architecture",
+      "name": {
+        "it": "Piazza di Spagna",
+        "en": "Piazza di Spagna"
+      },
+      "shortDescription": {
+        "it": "La scalinata di Trinità dei Monti e la barcaccia.",
+        "en": "The Spanish Steps and the Barcaccia fountain."
+      },
+      "description": {
+        "it": "La celebre scalinata settecentesca sale verso la chiesa di Trinità dei Monti, mentre ai suoi piedi zampilla la Barcaccia di Pietro Bernini. Punto d'incontro elegante tra vie dello shopping e atelier d'artista.",
+        "en": "The famous 18th-century stairway climbs to the church of Trinità dei Monti, while at its foot bubbles the Barcaccia fountain by Pietro Bernini. An elegant meeting point between shopping streets and artists' studios."
+      },
+      "coordinates": {
+        "lat": 41.9058,
+        "lng": 12.4823
+      },
+      "address": "Piazza di Spagna, 00187 Roma RM",
+      "images": [
+        {
+          "url": "piazza-di-spagna/hero.jpg",
+          "alt": {
+            "it": "La scalinata di Piazza di Spagna",
+            "en": "The Spanish Steps"
+          }
+        }
+      ],
+      "admission": {
+        "free": true
+      },
+      "tags": [
+        "barocco",
+        "piazza",
+        "panorama",
+        "gratis"
+      ],
+      "relatedPoiIds": [
+        "fontana-di-trevi",
+        "piazza-del-popolo",
+        "villa-borghese"
+      ],
+      "details": {
+        "category": "architecture",
+        "type": {
+          "it": "Piazza e scalinata",
+          "en": "Square and stairway"
+        },
+        "epoch": {
+          "it": "XVIII secolo",
+          "en": "18th century"
+        },
+        "interiorsVisitable": false,
+        "curiosity": {
+          "it": "La scalinata ha 135 gradini.",
+          "en": "The stairway has 135 steps."
+        }
+      }
+    },
+    {
+      "id": "campidoglio",
+      "category": "architecture",
+      "name": {
+        "it": "Piazza del Campidoglio",
+        "en": "Capitoline Square"
+      },
+      "shortDescription": {
+        "it": "La piazza disegnata da Michelangelo sul colle capitolino.",
+        "en": "Michelangelo's square on the Capitoline Hill."
+      },
+      "description": {
+        "it": "Michelangelo ridisegnò la sommità del colle creando una piazza armoniosa con la sua celebre pavimentazione stellata e i palazzi che oggi ospitano i Musei Capitolini. Al centro, la copia della statua equestre di Marco Aurelio.",
+        "en": "Michelangelo redesigned the hilltop, creating a harmonious square with its famous star-patterned paving and the palaces that today house the Capitoline Museums. At its centre stands a copy of the equestrian statue of Marcus Aurelius."
+      },
+      "coordinates": {
+        "lat": 41.8935,
+        "lng": 12.4828
+      },
+      "address": "Piazza del Campidoglio, 00186 Roma RM",
+      "images": [
+        {
+          "url": "campidoglio/hero.jpg",
+          "alt": {
+            "it": "La pavimentazione del Campidoglio",
+            "en": "The paving of the Capitoline Square"
+          }
+        }
+      ],
+      "admission": {
+        "free": true
+      },
+      "tags": [
+        "rinascimento",
+        "piazza",
+        "michelangelo",
+        "gratis"
+      ],
+      "relatedPoiIds": [
+        "musei-capitolini",
+        "foro-romano",
+        "altare-della-patria"
+      ],
+      "details": {
+        "category": "architecture",
+        "type": {
+          "it": "Piazza",
+          "en": "Square"
+        },
+        "epoch": {
+          "it": "XVI secolo",
+          "en": "16th century"
+        },
+        "architect": {
+          "it": "Michelangelo",
+          "en": "Michelangelo"
+        },
+        "interiorsVisitable": false
+      }
+    },
+    {
+      "id": "piazza-del-popolo",
+      "category": "architecture",
+      "name": {
+        "it": "Piazza del Popolo",
+        "en": "Piazza del Popolo"
+      },
+      "shortDescription": {
+        "it": "Grande piazza neoclassica con obelisco egizio.",
+        "en": "A grand neoclassical square with an Egyptian obelisk."
+      },
+      "description": {
+        "it": "Porta monumentale d'accesso alla città, è incorniciata dalle chiese gemelle e dominata da un obelisco di oltre tremila anni. Da qui partono le tre vie del tridente; la terrazza del Pincio offre una vista memorabile.",
+        "en": "A monumental gateway into the city, it is framed by the twin churches and dominated by an obelisk over three thousand years old. The three streets of the 'trident' start here; the Pincio terrace offers a memorable view."
+      },
+      "coordinates": {
+        "lat": 41.9109,
+        "lng": 12.4763
+      },
+      "address": "Piazza del Popolo, 00187 Roma RM",
+      "images": [
+        {
+          "url": "piazza-del-popolo/hero.jpg",
+          "alt": {
+            "it": "Piazza del Popolo dall'alto",
+            "en": "Piazza del Popolo from above"
+          }
+        }
+      ],
+      "admission": {
+        "free": true
+      },
+      "tags": [
+        "piazza",
+        "panorama",
+        "gratis",
+        "caravaggio"
+      ],
+      "relatedPoiIds": [
+        "piazza-di-spagna",
+        "villa-borghese",
+        "maxxi"
+      ],
+      "details": {
+        "category": "architecture",
+        "type": {
+          "it": "Piazza",
+          "en": "Square"
+        },
+        "epoch": {
+          "it": "XIX secolo",
+          "en": "19th century"
+        },
+        "architect": {
+          "it": "Giuseppe Valadier",
+          "en": "Giuseppe Valadier"
+        },
+        "interiorsVisitable": false,
+        "curiosity": {
+          "it": "Santa Maria del Popolo custodisce due Caravaggio.",
+          "en": "Santa Maria del Popolo holds two Caravaggios."
+        }
+      }
+    },
+    {
+      "id": "altare-della-patria",
+      "category": "architecture",
+      "name": {
+        "it": "Altare della Patria",
+        "en": "Altar of the Fatherland"
+      },
+      "shortDescription": {
+        "it": "Il monumento bianco a Vittorio Emanuele II.",
+        "en": "The white monument to Victor Emmanuel II."
+      },
+      "description": {
+        "it": "Imponente costruzione in marmo bianco affacciata su Piazza Venezia, ospita il Milite Ignoto e terrazze panoramiche raggiungibili in ascensore. Dalla cima lo sguardo abbraccia i Fori e i tetti del centro.",
+        "en": "An imposing white-marble structure overlooking Piazza Venezia, it houses the Tomb of the Unknown Soldier and panoramic terraces reached by lift. From the top the view embraces the Forums and the rooftops of the centre."
+      },
+      "coordinates": {
+        "lat": 41.8947,
+        "lng": 12.4839
+      },
+      "address": "Piazza Venezia, 00186 Roma RM",
+      "images": [
+        {
+          "url": "altare-della-patria/hero.jpg",
+          "alt": {
+            "it": "Il Vittoriano a Piazza Venezia",
+            "en": "The Vittoriano in Piazza Venezia"
+          }
+        }
+      ],
+      "openingHours": {
+        "weekly": [
+          {
+            "day": 0,
+            "slots": [
+              {
+                "open": "09:30",
+                "close": "19:30"
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "slots": [
+              {
+                "open": "09:30",
+                "close": "19:30"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "slots": [
+              {
+                "open": "09:30",
+                "close": "19:30"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "slots": [
+              {
+                "open": "09:30",
+                "close": "19:30"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "slots": [
+              {
+                "open": "09:30",
+                "close": "19:30"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "slots": [
+              {
+                "open": "09:30",
+                "close": "19:30"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "slots": [
+              {
+                "open": "09:30",
+                "close": "19:30"
+              }
+            ]
+          }
+        ]
+      },
+      "admission": {
+        "free": true,
+        "note": {
+          "it": "Ascensore panoramico a pagamento.",
+          "en": "Panoramic lift requires a ticket."
+        }
+      },
+      "tags": [
+        "panorama",
+        "vista",
+        "gratis"
+      ],
+      "relatedPoiIds": [
+        "campidoglio",
+        "musei-capitolini",
+        "foro-romano"
+      ],
+      "details": {
+        "category": "architecture",
+        "type": {
+          "it": "Monumento",
+          "en": "Monument"
+        },
+        "epoch": {
+          "it": "XX secolo",
+          "en": "20th century"
+        },
+        "architect": {
+          "it": "Giuseppe Sacconi",
+          "en": "Giuseppe Sacconi"
+        },
+        "interiorsVisitable": true,
+        "curiosity": {
+          "it": "Inaugurato nel 1911 per i 50 anni d'Italia.",
+          "en": "Inaugurated in 1911 for Italy's 50th anniversary."
+        }
+      }
+    },
+    {
+      "id": "quartiere-coppede",
+      "category": "architecture",
+      "name": {
+        "it": "Quartiere Coppedè",
+        "en": "Coppedè District"
+      },
+      "shortDescription": {
+        "it": "Un angolo fiabesco tra Liberty e fantasia.",
+        "en": "A fairytale corner of Art Nouveau and fantasy."
+      },
+      "description": {
+        "it": "Progettato da Gino Coppedè negli anni Venti, questo piccolo quartiere mescola Liberty, barocco e motivi medievali in palazzine stravaganti, archi e la Fontana delle Rane. Un set surreale lontano dalle folle.",
+        "en": "Designed by Gino Coppedè in the 1920s, this small district blends Art Nouveau, Baroque and medieval motifs in whimsical buildings, arches and the Fountain of the Frogs. A surreal set away from the crowds."
+      },
+      "coordinates": {
+        "lat": 41.9201,
+        "lng": 12.4979
+      },
+      "address": "Piazza Mincio, 00198 Roma RM",
+      "images": [
+        {
+          "url": "quartiere-coppede/hero.jpg",
+          "alt": {
+            "it": "Palazzine del Quartiere Coppedè",
+            "en": "Buildings of the Coppedè district"
+          }
+        }
+      ],
+      "admission": {
+        "free": true
+      },
+      "tags": [
+        "architettura",
+        "gratis"
+      ],
+      "relatedPoiIds": [
+        "villa-borghese",
+        "maxxi"
+      ],
+      "details": {
+        "category": "architecture",
+        "type": {
+          "it": "Quartiere",
+          "en": "District"
+        },
+        "epoch": {
+          "it": "XX secolo",
+          "en": "20th century"
+        },
+        "architect": {
+          "it": "Gino Coppedè",
+          "en": "Gino Coppedè"
+        },
+        "interiorsVisitable": false,
+        "curiosity": {
+          "it": "Set di film horror e d'autore.",
+          "en": "A set for horror and arthouse films."
+        }
+      }
+    },
+    {
+      "id": "armando-al-pantheon",
+      "category": "restaurant",
+      "name": {
+        "it": "Armando al Pantheon",
+        "en": "Armando al Pantheon"
+      },
+      "shortDescription": {
+        "it": "Trattoria storica di cucina romana, dal 1961.",
+        "en": "A historic Roman trattoria, since 1961."
+      },
+      "description": {
+        "it": "A pochi passi dal Pantheon, una piccola trattoria di famiglia che difende la tradizione romana: cacio e pepe, coda alla vaccinara, abbacchio. Pochi coperti, prenotazione quasi obbligatoria.",
+        "en": "A few steps from the Pantheon, a small family trattoria defending Roman tradition: cacio e pepe, oxtail stew, roast lamb. Few seats, booking almost essential."
+      },
+      "coordinates": {
+        "lat": 41.899,
+        "lng": 12.4766
+      },
+      "address": "Salita de' Crescenzi, 31, 00186 Roma RM",
+      "images": [
+        {
+          "url": "armando-al-pantheon/hero.jpg",
+          "alt": {
+            "it": "Piatto di amatriciana",
+            "en": "A plate of amatriciana"
+          }
+        }
+      ],
+      "openingHours": {
+        "weekly": [
+          {
+            "day": 1,
+            "slots": [
+              {
+                "open": "12:30",
+                "close": "15:00"
+              },
+              {
+                "open": "19:00",
+                "close": "23:00"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "slots": [
+              {
+                "open": "12:30",
+                "close": "15:00"
+              },
+              {
+                "open": "19:00",
+                "close": "23:00"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "slots": [
+              {
+                "open": "12:30",
+                "close": "15:00"
+              },
+              {
+                "open": "19:00",
+                "close": "23:00"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "slots": [
+              {
+                "open": "12:30",
+                "close": "15:00"
+              },
+              {
+                "open": "19:00",
+                "close": "23:00"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "slots": [
+              {
+                "open": "12:30",
+                "close": "15:00"
+              },
+              {
+                "open": "19:00",
+                "close": "23:00"
+              }
+            ]
+          }
+        ],
+        "note": {
+          "it": "Chiuso domenica; sabato solo pranzo.",
+          "en": "Closed Sunday; Saturday lunch only."
+        }
+      },
+      "admission": {
+        "free": true
+      },
+      "website": "https://www.armandoalpantheon.it",
+      "phone": "+39 06 6880 3034",
+      "tags": [
+        "cucina-romana"
+      ],
+      "relatedPoiIds": [
+        "pantheon",
+        "santa-maria-sopra-minerva",
+        "roscioli"
+      ],
+      "details": {
+        "category": "restaurant",
+        "cuisine": {
+          "it": "Romana tradizionale",
+          "en": "Traditional Roman"
+        },
+        "priceTier": "€€",
+        "reservationRecommended": true,
+        "diet": [
+          "vegetarian"
+        ],
+        "terrace": false
+      }
+    },
+    {
+      "id": "roscioli",
+      "category": "restaurant",
+      "name": {
+        "it": "Roscioli Salumeria con Cucina",
+        "en": "Roscioli Salumeria con Cucina"
+      },
+      "shortDescription": {
+        "it": "Salumeria gourmet e cucina nel cuore del centro.",
+        "en": "A gourmet deli and kitchen in the heart of the centre."
+      },
+      "description": {
+        "it": "Tra scaffali di salumi, formaggi e vini, Roscioli serve una carbonara tra le più celebri di Roma e taglieri d'eccellenza. Ambiente intimo e curatissimo: meglio prenotare.",
+        "en": "Among shelves of cured meats, cheeses and wines, Roscioli serves one of Rome's most celebrated carbonaras and outstanding sharing boards. An intimate, carefully curated setting: best to book."
+      },
+      "coordinates": {
+        "lat": 41.8945,
+        "lng": 12.473
+      },
+      "address": "Via dei Giubbonari, 21, 00186 Roma RM",
+      "images": [
+        {
+          "url": "roscioli/hero.jpg",
+          "alt": {
+            "it": "Spaghetti alla carbonara",
+            "en": "Spaghetti alla carbonara"
+          }
+        }
+      ],
+      "openingHours": {
+        "weekly": [
+          {
+            "day": 1,
+            "slots": [
+              {
+                "open": "12:30",
+                "close": "16:00"
+              },
+              {
+                "open": "19:00",
+                "close": "24:00"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "slots": [
+              {
+                "open": "12:30",
+                "close": "16:00"
+              },
+              {
+                "open": "19:00",
+                "close": "24:00"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "slots": [
+              {
+                "open": "12:30",
+                "close": "16:00"
+              },
+              {
+                "open": "19:00",
+                "close": "24:00"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "slots": [
+              {
+                "open": "12:30",
+                "close": "16:00"
+              },
+              {
+                "open": "19:00",
+                "close": "24:00"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "slots": [
+              {
+                "open": "12:30",
+                "close": "16:00"
+              },
+              {
+                "open": "19:00",
+                "close": "24:00"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "slots": [
+              {
+                "open": "12:30",
+                "close": "16:00"
+              },
+              {
+                "open": "19:00",
+                "close": "24:00"
+              }
+            ]
+          }
+        ],
+        "note": {
+          "it": "Chiuso la domenica.",
+          "en": "Closed on Sundays."
+        }
+      },
+      "admission": {
+        "free": true
+      },
+      "website": "https://www.salumeriaroscioli.com",
+      "phone": "+39 06 687 5287",
+      "tags": [
+        "cucina-romana"
+      ],
+      "relatedPoiIds": [
+        "piazza-navona",
+        "armando-al-pantheon",
+        "pantheon"
+      ],
+      "details": {
+        "category": "restaurant",
+        "cuisine": {
+          "it": "Romana e gourmet",
+          "en": "Roman and gourmet"
+        },
+        "priceTier": "€€€",
+        "reservationRecommended": true,
+        "diet": [
+          "vegetarian"
+        ],
+        "terrace": false
+      }
+    },
+    {
+      "id": "da-enzo-al-29",
+      "category": "restaurant",
+      "name": {
+        "it": "Da Enzo al 29",
+        "en": "Da Enzo al 29"
+      },
+      "shortDescription": {
+        "it": "Autentica osteria trasteverina a conduzione familiare.",
+        "en": "An authentic family-run osteria in Trastevere."
+      },
+      "description": {
+        "it": "Una manciata di tavoli in un vicolo di Trastevere per i grandi classici romani con ingredienti del territorio: cacio e pepe, polpette, fiori di zucca. Si fa la fila, ma ne vale la pena.",
+        "en": "A handful of tables in a Trastevere alley serving the great Roman classics with local ingredients: cacio e pepe, meatballs, zucchini flowers. There's a queue, but it's worth it."
+      },
+      "coordinates": {
+        "lat": 41.8889,
+        "lng": 12.4775
+      },
+      "address": "Via dei Vascellari, 29, 00153 Roma RM",
+      "images": [
+        {
+          "url": "da-enzo-al-29/hero.jpg",
+          "alt": {
+            "it": "Cacio e pepe",
+            "en": "Cacio e pepe"
+          }
+        }
+      ],
+      "openingHours": {
+        "weekly": [
+          {
+            "day": 1,
+            "slots": [
+              {
+                "open": "12:30",
+                "close": "15:00"
+              },
+              {
+                "open": "19:00",
+                "close": "23:00"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "slots": [
+              {
+                "open": "12:30",
+                "close": "15:00"
+              },
+              {
+                "open": "19:00",
+                "close": "23:00"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "slots": [
+              {
+                "open": "12:30",
+                "close": "15:00"
+              },
+              {
+                "open": "19:00",
+                "close": "23:00"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "slots": [
+              {
+                "open": "12:30",
+                "close": "15:00"
+              },
+              {
+                "open": "19:00",
+                "close": "23:00"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "slots": [
+              {
+                "open": "12:30",
+                "close": "15:00"
+              },
+              {
+                "open": "19:00",
+                "close": "23:00"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "slots": [
+              {
+                "open": "12:30",
+                "close": "15:00"
+              },
+              {
+                "open": "19:00",
+                "close": "23:00"
+              }
+            ]
+          }
+        ],
+        "note": {
+          "it": "Chiuso la domenica. No prenotazioni serali.",
+          "en": "Closed Sunday. No evening reservations."
+        }
+      },
+      "admission": {
+        "free": true
+      },
+      "phone": "+39 06 581 2260",
+      "tags": [
+        "cucina-romana",
+        "trastevere"
+      ],
+      "relatedPoiIds": [
+        "santa-maria-in-trastevere",
+        "orto-botanico"
+      ],
+      "details": {
+        "category": "restaurant",
+        "cuisine": {
+          "it": "Romana tradizionale",
+          "en": "Traditional Roman"
+        },
+        "priceTier": "€€",
+        "reservationRecommended": false,
+        "diet": [
+          "vegetarian"
+        ],
+        "terrace": true
+      }
+    },
+    {
+      "id": "trapizzino-testaccio",
+      "category": "restaurant",
+      "name": {
+        "it": "Trapizzino",
+        "en": "Trapizzino"
+      },
+      "shortDescription": {
+        "it": "Lo street food che incontra la cucina romana.",
+        "en": "Street food meets Roman home cooking."
+      },
+      "description": {
+        "it": "Nato a Testaccio, il trapizzino è un triangolo di pizza croccante farcito con i grandi sughi della tradizione, dal pollo alla cacciatora alle polpette. Veloce, sfizioso e tutto romano.",
+        "en": "Born in Testaccio, the trapizzino is a triangle of crisp pizza pocket filled with the great traditional stews, from chicken cacciatora to meatballs. Quick, tasty and thoroughly Roman."
+      },
+      "coordinates": {
+        "lat": 41.879,
+        "lng": 12.475
+      },
+      "address": "Via Giovanni Branca, 88, 00153 Roma RM",
+      "images": [
+        {
+          "url": "trapizzino-testaccio/hero.jpg",
+          "alt": {
+            "it": "Supplì e street food romano",
+            "en": "Supplì and Roman street food"
+          }
+        }
+      ],
+      "openingHours": {
+        "weekly": [
+          {
+            "day": 1,
+            "slots": [
+              {
+                "open": "12:00",
+                "close": "01:00"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "slots": [
+              {
+                "open": "12:00",
+                "close": "01:00"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "slots": [
+              {
+                "open": "12:00",
+                "close": "01:00"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "slots": [
+              {
+                "open": "12:00",
+                "close": "01:00"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "slots": [
+              {
+                "open": "12:00",
+                "close": "01:00"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "slots": [
+              {
+                "open": "12:00",
+                "close": "01:00"
+              }
+            ]
+          }
+        ],
+        "note": {
+          "it": "Chiuso il lunedì.",
+          "en": "Closed on Mondays."
+        }
+      },
+      "admission": {
+        "free": true
+      },
+      "website": "https://www.trapizzino.it",
+      "tags": [
+        "street-food",
+        "cucina-romana"
+      ],
+      "relatedPoiIds": [
+        "giardino-degli-aranci",
+        "da-enzo-al-29"
+      ],
+      "details": {
+        "category": "restaurant",
+        "cuisine": {
+          "it": "Street food romano",
+          "en": "Roman street food"
+        },
+        "priceTier": "€",
+        "reservationRecommended": false,
+        "diet": [
+          "vegetarian"
+        ],
+        "terrace": false
+      }
+    },
+    {
+      "id": "pizzarium",
+      "category": "restaurant",
+      "name": {
+        "it": "Pizzarium Bonci",
+        "en": "Pizzarium Bonci"
+      },
+      "shortDescription": {
+        "it": "La pizza al taglio gourmet di Gabriele Bonci.",
+        "en": "Gabriele Bonci's gourmet pizza by the slice."
+      },
+      "description": {
+        "it": "Vicino ai Musei Vaticani, il tempio della pizza al taglio romana: impasti ad alta idratazione e topping creativi e stagionali, da gustare in piedi. Un must per chi ama il lievitato.",
+        "en": "Near the Vatican Museums, the temple of Roman pizza by the slice: high-hydration doughs and creative, seasonal toppings to enjoy standing up. A must for dough lovers."
+      },
+      "coordinates": {
+        "lat": 41.907,
+        "lng": 12.447
+      },
+      "address": "Via della Meloria, 43, 00136 Roma RM",
+      "images": [
+        {
+          "url": "pizzarium/hero.jpg",
+          "alt": {
+            "it": "Pizza al taglio romana",
+            "en": "Roman pizza by the slice"
+          }
+        }
+      ],
+      "openingHours": {
+        "weekly": [
+          {
+            "day": 0,
+            "slots": [
+              {
+                "open": "11:00",
+                "close": "22:00"
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "slots": [
+              {
+                "open": "11:00",
+                "close": "22:00"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "slots": [
+              {
+                "open": "11:00",
+                "close": "22:00"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "slots": [
+              {
+                "open": "11:00",
+                "close": "22:00"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "slots": [
+              {
+                "open": "11:00",
+                "close": "22:00"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "slots": [
+              {
+                "open": "11:00",
+                "close": "22:00"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "slots": [
+              {
+                "open": "11:00",
+                "close": "22:00"
+              }
+            ]
+          }
+        ]
+      },
+      "admission": {
+        "free": true
+      },
+      "website": "https://www.bonci.it",
+      "tags": [
+        "pizza",
+        "street-food"
+      ],
+      "relatedPoiIds": [
+        "musei-vaticani",
+        "san-pietro"
+      ],
+      "details": {
+        "category": "restaurant",
+        "cuisine": {
+          "it": "Pizza al taglio",
+          "en": "Pizza by the slice"
+        },
+        "priceTier": "€",
+        "reservationRecommended": false,
+        "diet": [
+          "vegetarian",
+          "vegan"
+        ],
+        "terrace": false
+      }
+    },
+    {
+      "id": "gelateria-dei-gracchi",
+      "category": "restaurant",
+      "name": {
+        "it": "Gelateria dei Gracchi",
+        "en": "Gelateria dei Gracchi"
+      },
+      "shortDescription": {
+        "it": "Gelato artigianale con ingredienti naturali.",
+        "en": "Artisanal gelato made with natural ingredients."
+      },
+      "description": {
+        "it": "Storica gelateria di Prati, propone gusti realizzati con materie prime selezionate, frutta di stagione e cioccolato di qualità, senza coloranti. Una sosta golosa vicino al Vaticano.",
+        "en": "A historic gelateria in Prati, offering flavours made with selected ingredients, seasonal fruit and quality chocolate, without colourings. A sweet stop near the Vatican."
+      },
+      "coordinates": {
+        "lat": 41.9073,
+        "lng": 12.4625
+      },
+      "address": "Via dei Gracchi, 272, 00192 Roma RM",
+      "images": [
+        {
+          "url": "gelateria-dei-gracchi/hero.jpg",
+          "alt": {
+            "it": "Coni di gelato artigianale",
+            "en": "Artisanal gelato cones"
+          }
+        }
+      ],
+      "openingHours": {
+        "weekly": [
+          {
+            "day": 0,
+            "slots": [
+              {
+                "open": "11:00",
+                "close": "24:00"
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "slots": [
+              {
+                "open": "11:00",
+                "close": "24:00"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "slots": [
+              {
+                "open": "11:00",
+                "close": "24:00"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "slots": [
+              {
+                "open": "11:00",
+                "close": "24:00"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "slots": [
+              {
+                "open": "11:00",
+                "close": "24:00"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "slots": [
+              {
+                "open": "11:00",
+                "close": "24:00"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "slots": [
+              {
+                "open": "11:00",
+                "close": "24:00"
+              }
+            ]
+          }
+        ]
+      },
+      "admission": {
+        "free": true
+      },
+      "website": "https://www.gelateriadeigracchi.it",
+      "tags": [
+        "gelato",
+        "famiglia"
+      ],
+      "relatedPoiIds": [
+        "pizzarium",
+        "castel-sant-angelo"
+      ],
+      "details": {
+        "category": "restaurant",
+        "cuisine": {
+          "it": "Gelateria artigianale",
+          "en": "Artisanal gelato"
+        },
+        "priceTier": "€",
+        "reservationRecommended": false,
+        "diet": [
+          "vegetarian",
+          "vegan",
+          "gluten-free"
+        ],
+        "terrace": false
+      }
+    }
+  ]
+}
