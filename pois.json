@@ -170,10 +170,6 @@
         "it": "Colosseo",
         "en": "Colosseum"
       },
-      "shortDescription": {
-        "it": "L'anfiteatro più grande del mondo antico, simbolo di Roma.",
-        "en": "The largest amphitheatre of the ancient world, the symbol of Rome."
-      },
       "description": {
         "it": "Inaugurato nell'80 d.C., l'Anfiteatro Flavio ospitava fino a 50.000 spettatori per giochi gladiatori e spettacoli. Oggi se ne visitano arena, cavea e sotterranei, raccontando duemila anni di storia romana.",
         "en": "Inaugurated in 80 AD, the Flavian Amphitheatre held up to 50,000 spectators for gladiatorial games and shows. Today you can visit the arena, the tiers and the underground passages that tell two thousand years of Roman history."
@@ -271,19 +267,10 @@
               }
             ]
           }
-        ],
-        "note": {
-          "it": "Ultimo ingresso un'ora prima della chiusura.",
-          "en": "Last entry one hour before closing."
-        }
+        ]
       },
       "admission": {
-        "free": false,
-        "priceFrom": 18,
-        "note": {
-          "it": "Biglietto combinato con Foro Romano e Palatino.",
-          "en": "Combined ticket with Roman Forum and Palatine."
-        }
+        "free": false
       },
       "website": "https://parcocolosseo.it",
       "tags": [
@@ -295,23 +282,7 @@
         "foro-romano",
         "arco-di-costantino",
         "musei-capitolini"
-      ],
-      "details": {
-        "category": "monument",
-        "epoch": {
-          "it": "I secolo d.C.",
-          "en": "1st century AD"
-        },
-        "style": {
-          "it": "Romano imperiale",
-          "en": "Imperial Roman"
-        },
-        "buildYear": 80,
-        "patron": {
-          "it": "Imperatori Flavi",
-          "en": "Flavian emperors"
-        }
-      }
+      ]
     },
     {
       "id": "pantheon",
@@ -319,10 +290,6 @@
       "name": {
         "it": "Pantheon",
         "en": "Pantheon"
-      },
-      "shortDescription": {
-        "it": "Il tempio meglio conservato dell'antica Roma.",
-        "en": "Ancient Rome's best-preserved temple."
       },
       "description": {
         "it": "Ricostruito da Adriano nel II secolo, il Pantheon conserva la più grande cupola in calcestruzzo non armato mai realizzata, con il celebre oculo aperto sul cielo. Dal Rinascimento è anche luogo di sepoltura, tra cui la tomba di Raffaello.",
@@ -424,12 +391,7 @@
         ]
       },
       "admission": {
-        "free": false,
-        "priceFrom": 5,
-        "note": {
-          "it": "Gratuito per i residenti a Roma in alcune giornate.",
-          "en": "Free for Rome residents on selected days."
-        }
+        "free": false
       },
       "website": "https://www.pantheonroma.com",
       "tags": [
@@ -441,19 +403,7 @@
         "piazza-navona",
         "santa-maria-sopra-minerva",
         "san-luigi-dei-francesi"
-      ],
-      "details": {
-        "category": "monument",
-        "epoch": {
-          "it": "II secolo d.C.",
-          "en": "2nd century AD"
-        },
-        "style": {
-          "it": "Romano",
-          "en": "Roman"
-        },
-        "buildYear": 126
-      }
+      ]
     },
     {
       "id": "fontana-di-trevi",
@@ -461,10 +411,6 @@
       "name": {
         "it": "Fontana di Trevi",
         "en": "Trevi Fountain"
-      },
-      "shortDescription": {
-        "it": "La più scenografica fontana barocca di Roma.",
-        "en": "Rome's most spectacular Baroque fountain."
       },
       "description": {
         "it": "Capolavoro di Nicola Salvi completato nel 1762, addossata a Palazzo Poli, mette in scena Oceano sul suo carro tra cavalli marini. La tradizione vuole che lanciando una moneta si assicuri il ritorno a Roma.",
@@ -496,23 +442,7 @@
         "pantheon",
         "piazza-di-spagna",
         "palazzo-barberini"
-      ],
-      "details": {
-        "category": "monument",
-        "epoch": {
-          "it": "XVIII secolo",
-          "en": "18th century"
-        },
-        "style": {
-          "it": "Barocco",
-          "en": "Baroque"
-        },
-        "buildYear": 1762,
-        "patron": {
-          "it": "Nicola Salvi",
-          "en": "Nicola Salvi"
-        }
-      }
+      ]
     },
     {
       "id": "foro-romano",
@@ -520,10 +450,6 @@
       "name": {
         "it": "Foro Romano",
         "en": "Roman Forum"
-      },
-      "shortDescription": {
-        "it": "Il cuore politico e religioso dell'antica Roma.",
-        "en": "The political and religious heart of ancient Rome."
       },
       "description": {
         "it": "Per secoli centro della vita pubblica, il Foro conserva templi, basiliche e archi trionfali tra cui la Via Sacra. Passeggiare tra le rovine significa attraversare la storia della repubblica e dell'impero.",
@@ -611,12 +537,7 @@
         ]
       },
       "admission": {
-        "free": false,
-        "priceFrom": 18,
-        "note": {
-          "it": "Incluso nel biglietto del Colosseo.",
-          "en": "Included in the Colosseum ticket."
-        }
+        "free": false
       },
       "website": "https://parcocolosseo.it",
       "tags": [
@@ -628,18 +549,7 @@
         "colosseo",
         "campidoglio",
         "arco-di-costantino"
-      ],
-      "details": {
-        "category": "monument",
-        "epoch": {
-          "it": "VII secolo a.C. – VI secolo d.C.",
-          "en": "7th c. BC – 6th c. AD"
-        },
-        "style": {
-          "it": "Romano",
-          "en": "Roman"
-        }
-      }
+      ]
     },
     {
       "id": "arco-di-costantino",
@@ -647,10 +557,6 @@
       "name": {
         "it": "Arco di Costantino",
         "en": "Arch of Constantine"
-      },
-      "shortDescription": {
-        "it": "Il più grande arco trionfale romano giunto fino a noi.",
-        "en": "The largest surviving Roman triumphal arch."
       },
       "description": {
         "it": "Eretto nel 315 d.C. per celebrare la vittoria di Costantino a Ponte Milvio, riutilizza rilievi di monumenti precedenti. Sorge tra il Colosseo e il Palatino, lungo il percorso dei trionfi.",
@@ -681,19 +587,7 @@
       "relatedPoiIds": [
         "colosseo",
         "foro-romano"
-      ],
-      "details": {
-        "category": "monument",
-        "epoch": {
-          "it": "IV secolo d.C.",
-          "en": "4th century AD"
-        },
-        "style": {
-          "it": "Romano imperiale",
-          "en": "Imperial Roman"
-        },
-        "buildYear": 315
-      }
+      ]
     },
     {
       "id": "castel-sant-angelo",
@@ -701,10 +595,6 @@
       "name": {
         "it": "Castel Sant'Angelo",
         "en": "Castel Sant'Angelo"
-      },
-      "shortDescription": {
-        "it": "Mausoleo imperiale, fortezza papale e oggi museo.",
-        "en": "Imperial mausoleum, papal fortress and today a museum."
       },
       "description": {
         "it": "Nato come mausoleo di Adriano, fu trasformato in fortezza collegata al Vaticano dal Passetto di Borgo. La rampa elicoidale conduce alle sale papali e alla terrazza, con una delle viste più belle su Roma.",
@@ -780,15 +670,10 @@
               }
             ]
           }
-        ],
-        "note": {
-          "it": "Chiuso il lunedì.",
-          "en": "Closed on Mondays."
-        }
+        ]
       },
       "admission": {
-        "free": false,
-        "priceFrom": 16
+        "free": false
       },
       "website": "https://castelsantangelo.cultura.gov.it",
       "tags": [
@@ -799,19 +684,7 @@
       "relatedPoiIds": [
         "san-pietro",
         "piazza-navona"
-      ],
-      "details": {
-        "category": "monument",
-        "epoch": {
-          "it": "II secolo d.C.",
-          "en": "2nd century AD"
-        },
-        "style": {
-          "it": "Romano e medievale",
-          "en": "Roman and medieval"
-        },
-        "buildYear": 139
-      }
+      ]
     },
     {
       "id": "san-pietro",
@@ -819,10 +692,6 @@
       "name": {
         "it": "Basilica di San Pietro",
         "en": "St. Peter's Basilica"
-      },
-      "shortDescription": {
-        "it": "La più grande chiesa della cristianità, in Vaticano.",
-        "en": "The largest church in Christendom, in the Vatican."
       },
       "description": {
         "it": "Costruita sul luogo della tomba dell'apostolo Pietro, è il capolavoro corale di Bramante, Michelangelo, Maderno e Bernini. All'interno la Pietà di Michelangelo e il baldacchino bronzeo; dalla cupola si domina tutta Roma.",
@@ -907,18 +776,10 @@
               }
             ]
           }
-        ],
-        "note": {
-          "it": "Possibili chiusure durante le celebrazioni.",
-          "en": "May close during celebrations."
-        }
+        ]
       },
       "admission": {
-        "free": true,
-        "note": {
-          "it": "Basilica gratuita; cupola a pagamento.",
-          "en": "Basilica free; dome paid."
-        }
+        "free": true
       },
       "website": "https://www.vatican.va",
       "tags": [
@@ -931,22 +792,7 @@
       "relatedPoiIds": [
         "musei-vaticani",
         "castel-sant-angelo"
-      ],
-      "details": {
-        "category": "church",
-        "confession": {
-          "it": "Cattolica romana",
-          "en": "Roman Catholic"
-        },
-        "artworks": {
-          "it": "Pietà di Michelangelo, baldacchino del Bernini",
-          "en": "Michelangelo's Pietà, Bernini's baldachin"
-        },
-        "dressCode": {
-          "it": "Spalle e ginocchia coperte.",
-          "en": "Shoulders and knees must be covered."
-        }
-      }
+      ]
     },
     {
       "id": "santa-maria-maggiore",
@@ -954,10 +800,6 @@
       "name": {
         "it": "Basilica di Santa Maria Maggiore",
         "en": "Basilica of Santa Maria Maggiore"
-      },
-      "shortDescription": {
-        "it": "Basilica papale celebre per i mosaici paleocristiani.",
-        "en": "Papal basilica famed for its early Christian mosaics."
       },
       "description": {
         "it": "Una delle quattro basiliche papali, conserva splendidi mosaici del V secolo lungo la navata e un soffitto a cassettoni dorato. Fonde elementi paleocristiani, medievali e barocchi.",
@@ -1056,18 +898,7 @@
       "relatedPoiIds": [
         "san-giovanni-in-laterano",
         "santa-maria-sopra-minerva"
-      ],
-      "details": {
-        "category": "church",
-        "confession": {
-          "it": "Cattolica romana",
-          "en": "Roman Catholic"
-        },
-        "artworks": {
-          "it": "Mosaici del V secolo, Cappella Sistina e Paolina",
-          "en": "5th-century mosaics, Sistine and Pauline chapels"
-        }
-      }
+      ]
     },
     {
       "id": "san-giovanni-in-laterano",
@@ -1075,10 +906,6 @@
       "name": {
         "it": "San Giovanni in Laterano",
         "en": "St. John Lateran"
-      },
-      "shortDescription": {
-        "it": "La cattedrale di Roma, madre di tutte le chiese.",
-        "en": "The cathedral of Rome, mother of all churches."
       },
       "description": {
         "it": "Cattedrale del vescovo di Roma, vanta una maestosa facciata settecentesca con le statue dei santi e un interno rimodellato dal Borromini. Di fronte si trovano l'obelisco più alto di Roma e la Scala Santa.",
@@ -1166,11 +993,7 @@
         ]
       },
       "admission": {
-        "free": true,
-        "note": {
-          "it": "Chiostro a pagamento.",
-          "en": "Cloister requires a ticket."
-        }
+        "free": true
       },
       "tags": [
         "barocco",
@@ -1180,18 +1003,7 @@
       "relatedPoiIds": [
         "santa-maria-maggiore",
         "colosseo"
-      ],
-      "details": {
-        "category": "church",
-        "confession": {
-          "it": "Cattolica romana",
-          "en": "Roman Catholic"
-        },
-        "artworks": {
-          "it": "Statue degli apostoli, chiostro cosmatesco",
-          "en": "Statues of the apostles, Cosmatesque cloister"
-        }
-      }
+      ]
     },
     {
       "id": "santa-maria-sopra-minerva",
@@ -1199,10 +1011,6 @@
       "name": {
         "it": "Santa Maria sopra Minerva",
         "en": "Santa Maria sopra Minerva"
-      },
-      "shortDescription": {
-        "it": "L'unica chiesa gotica di Roma, dietro il Pantheon.",
-        "en": "Rome's only Gothic church, behind the Pantheon."
       },
       "description": {
         "it": "Edificata su un antico tempio, sorprende con le sue volte stellate blu. Custodisce il Cristo redentore di Michelangelo e affreschi di Filippino Lippi; davanti, l'elefantino del Bernini regge un obelisco egizio.",
@@ -1301,18 +1109,7 @@
       "relatedPoiIds": [
         "pantheon",
         "san-luigi-dei-francesi"
-      ],
-      "details": {
-        "category": "church",
-        "confession": {
-          "it": "Cattolica romana",
-          "en": "Roman Catholic"
-        },
-        "artworks": {
-          "it": "Cristo della Minerva di Michelangelo, affreschi di Filippino Lippi",
-          "en": "Michelangelo's Christ, frescoes by Filippino Lippi"
-        }
-      }
+      ]
     },
     {
       "id": "san-luigi-dei-francesi",
@@ -1320,10 +1117,6 @@
       "name": {
         "it": "San Luigi dei Francesi",
         "en": "San Luigi dei Francesi"
-      },
-      "shortDescription": {
-        "it": "Tre capolavori di Caravaggio in una sola cappella.",
-        "en": "Three Caravaggio masterpieces in a single chapel."
       },
       "description": {
         "it": "Chiesa nazionale dei francesi a Roma, custodisce nella Cappella Contarelli il ciclo di San Matteo di Caravaggio: vocazione, ispirazione e martirio, dove la luce diventa protagonista.",
@@ -1423,18 +1216,7 @@
         "piazza-navona",
         "pantheon",
         "santa-maria-sopra-minerva"
-      ],
-      "details": {
-        "category": "church",
-        "confession": {
-          "it": "Cattolica romana",
-          "en": "Roman Catholic"
-        },
-        "artworks": {
-          "it": "Ciclo di San Matteo di Caravaggio",
-          "en": "Caravaggio's St. Matthew cycle"
-        }
-      }
+      ]
     },
     {
       "id": "santa-maria-in-trastevere",
@@ -1442,10 +1224,6 @@
       "name": {
         "it": "Santa Maria in Trastevere",
         "en": "Santa Maria in Trastevere"
-      },
-      "shortDescription": {
-        "it": "Mosaici dorati nel cuore di Trastevere.",
-        "en": "Golden mosaics in the heart of Trastevere."
       },
       "description": {
         "it": "Tra le più antiche chiese mariane di Roma, domina una piazza vivace con la sua fontana. La facciata e l'abside brillano di mosaici medievali dorati, tra cui le storie della Vergine di Pietro Cavallini.",
@@ -1544,18 +1322,7 @@
       "relatedPoiIds": [
         "orto-botanico",
         "da-enzo-al-29"
-      ],
-      "details": {
-        "category": "church",
-        "confession": {
-          "it": "Cattolica romana",
-          "en": "Roman Catholic"
-        },
-        "artworks": {
-          "it": "Mosaici di Pietro Cavallini",
-          "en": "Mosaics by Pietro Cavallini"
-        }
-      }
+      ]
     },
     {
       "id": "musei-vaticani",
@@ -1563,10 +1330,6 @@
       "name": {
         "it": "Musei Vaticani",
         "en": "Vatican Museums"
-      },
-      "shortDescription": {
-        "it": "Collezioni papali e la Cappella Sistina di Michelangelo.",
-        "en": "Papal collections and Michelangelo's Sistine Chapel."
       },
       "description": {
         "it": "Uno dei complessi museali più visitati al mondo: dalle statue classiche alle Stanze di Raffaello, fino alla volta della Cappella Sistina affrescata da Michelangelo. Un percorso di chilometri tra arte di ogni epoca.",
@@ -1642,19 +1405,10 @@
               }
             ]
           }
-        ],
-        "note": {
-          "it": "Chiusi la domenica, salvo l'ultima del mese (gratuita).",
-          "en": "Closed on Sundays, except the last of the month (free)."
-        }
+        ]
       },
       "admission": {
-        "free": false,
-        "priceFrom": 20,
-        "note": {
-          "it": "Prenotazione fortemente consigliata.",
-          "en": "Booking strongly recommended."
-        }
+        "free": false
       },
       "website": "https://www.museivaticani.va",
       "tags": [
@@ -1666,16 +1420,7 @@
       "relatedPoiIds": [
         "san-pietro",
         "galleria-borghese"
-      ],
-      "details": {
-        "category": "museum",
-        "durationMinutes": 180,
-        "collections": {
-          "it": "Cappella Sistina, Stanze di Raffaello, Pinacoteca",
-          "en": "Sistine Chapel, Raphael Rooms, Pinacoteca"
-        },
-        "bookingRequired": true
-      }
+      ]
     },
     {
       "id": "galleria-borghese",
@@ -1683,10 +1428,6 @@
       "name": {
         "it": "Galleria Borghese",
         "en": "Borghese Gallery"
-      },
-      "shortDescription": {
-        "it": "Bernini e Caravaggio in una villa nel verde.",
-        "en": "Bernini and Caravaggio in a villa amid greenery."
       },
       "description": {
         "it": "La collezione del cardinale Scipione Borghese riunisce sculture di Bernini come Apollo e Dafne e dipinti di Caravaggio, Tiziano e Raffaello. L'ingresso è a fasce orarie contingentate, immerso nel parco di Villa Borghese.",
@@ -1762,19 +1503,10 @@
               }
             ]
           }
-        ],
-        "note": {
-          "it": "Chiusa il lunedì. Ingressi ogni due ore.",
-          "en": "Closed on Mondays. Entry every two hours."
-        }
+        ]
       },
       "admission": {
-        "free": false,
-        "priceFrom": 13,
-        "note": {
-          "it": "Prenotazione obbligatoria.",
-          "en": "Booking mandatory."
-        }
+        "free": false
       },
       "website": "https://galleriaborghese.beniculturali.it",
       "tags": [
@@ -1785,16 +1517,7 @@
       "relatedPoiIds": [
         "villa-borghese",
         "musei-vaticani"
-      ],
-      "details": {
-        "category": "museum",
-        "durationMinutes": 120,
-        "collections": {
-          "it": "Sculture del Bernini, dipinti di Caravaggio e Tiziano",
-          "en": "Bernini sculptures, paintings by Caravaggio and Titian"
-        },
-        "bookingRequired": true
-      }
+      ]
     },
     {
       "id": "musei-capitolini",
@@ -1802,10 +1525,6 @@
       "name": {
         "it": "Musei Capitolini",
         "en": "Capitoline Museums"
-      },
-      "shortDescription": {
-        "it": "I più antichi musei pubblici del mondo, sul Campidoglio.",
-        "en": "The world's oldest public museums, on the Capitoline Hill."
       },
       "description": {
         "it": "Affacciati sulla piazza michelangiolesca del Campidoglio, custodiscono capolavori come la Lupa Capitolina e il Galata morente. Dalla terrazza, vista spettacolare sul Foro Romano.",
@@ -1893,8 +1612,7 @@
         ]
       },
       "admission": {
-        "free": false,
-        "priceFrom": 13
+        "free": false
       },
       "website": "https://www.museicapitolini.org",
       "tags": [
@@ -1906,16 +1624,7 @@
         "campidoglio",
         "foro-romano",
         "altare-della-patria"
-      ],
-      "details": {
-        "category": "museum",
-        "durationMinutes": 120,
-        "collections": {
-          "it": "Lupa Capitolina, Galata morente, Pinacoteca",
-          "en": "Capitoline Wolf, Dying Gaul, Pinacoteca"
-        },
-        "bookingRequired": false
-      }
+      ]
     },
     {
       "id": "galleria-doria-pamphilj",
@@ -1923,10 +1632,6 @@
       "name": {
         "it": "Galleria Doria Pamphilj",
         "en": "Doria Pamphilj Gallery"
-      },
-      "shortDescription": {
-        "it": "Una quadreria principesca ancora abitata.",
-        "en": "A princely picture gallery still inhabited."
       },
       "description": {
         "it": "Nascosta in un palazzo su via del Corso, la collezione privata della famiglia Doria Pamphilj allinea centinaia di dipinti, tra cui il celebre ritratto di Innocenzo X di Velázquez. Le sale dorate conservano l'atmosfera di una dimora nobiliare.",
@@ -2014,12 +1719,7 @@
         ]
       },
       "admission": {
-        "free": false,
-        "priceFrom": 16,
-        "note": {
-          "it": "Audioguida inclusa.",
-          "en": "Audio guide included."
-        }
+        "free": false
       },
       "website": "https://www.doriapamphilj.it",
       "tags": [
@@ -2029,16 +1729,7 @@
       "relatedPoiIds": [
         "fontana-di-trevi",
         "pantheon"
-      ],
-      "details": {
-        "category": "museum",
-        "durationMinutes": 90,
-        "collections": {
-          "it": "Velázquez, Caravaggio, Tiziano",
-          "en": "Velázquez, Caravaggio, Titian"
-        },
-        "bookingRequired": false
-      }
+      ]
     },
     {
       "id": "palazzo-barberini",
@@ -2046,10 +1737,6 @@
       "name": {
         "it": "Palazzo Barberini",
         "en": "Palazzo Barberini"
-      },
-      "shortDescription": {
-        "it": "Galleria Nazionale d'Arte Antica in un palazzo barocco.",
-        "en": "National Gallery of Ancient Art in a Baroque palace."
       },
       "description": {
         "it": "Capolavoro di Bernini e Borromini, ospita opere di Raffaello, Caravaggio e Holbein. Da non perdere l'affresco del Trionfo della Divina Provvidenza di Pietro da Cortona sulla volta del salone.",
@@ -2125,15 +1812,10 @@
               }
             ]
           }
-        ],
-        "note": {
-          "it": "Chiuso il lunedì.",
-          "en": "Closed on Mondays."
-        }
+        ]
       },
       "admission": {
-        "free": false,
-        "priceFrom": 12
+        "free": false
       },
       "website": "https://www.barberinicorsini.org",
       "tags": [
@@ -2145,16 +1827,7 @@
       "relatedPoiIds": [
         "fontana-di-trevi",
         "galleria-borghese"
-      ],
-      "details": {
-        "category": "museum",
-        "durationMinutes": 90,
-        "collections": {
-          "it": "La Fornarina di Raffaello, affresco di Pietro da Cortona",
-          "en": "Raphael's La Fornarina, Pietro da Cortona's fresco"
-        },
-        "bookingRequired": false
-      }
+      ]
     },
     {
       "id": "maxxi",
@@ -2162,10 +1835,6 @@
       "name": {
         "it": "MAXXI",
         "en": "MAXXI"
-      },
-      "shortDescription": {
-        "it": "Il museo nazionale delle arti del XXI secolo.",
-        "en": "The national museum of 21st-century arts."
       },
       "description": {
         "it": "Progettato da Zaha Hadid, il MAXXI è esso stesso un'opera d'arte fatta di curve di cemento e luce. Ospita arte contemporanea e architettura con mostre temporanee di respiro internazionale.",
@@ -2241,15 +1910,10 @@
               }
             ]
           }
-        ],
-        "note": {
-          "it": "Chiuso il lunedì.",
-          "en": "Closed on Mondays."
-        }
+        ]
       },
       "admission": {
-        "free": false,
-        "priceFrom": 12
+        "free": false
       },
       "website": "https://www.maxxi.art",
       "tags": [
@@ -2259,16 +1923,7 @@
       "relatedPoiIds": [
         "villa-borghese",
         "piazza-del-popolo"
-      ],
-      "details": {
-        "category": "museum",
-        "durationMinutes": 90,
-        "collections": {
-          "it": "Arte e architettura contemporanea",
-          "en": "Contemporary art and architecture"
-        },
-        "bookingRequired": false
-      }
+      ]
     },
     {
       "id": "villa-borghese",
@@ -2276,10 +1931,6 @@
       "name": {
         "it": "Villa Borghese",
         "en": "Villa Borghese"
-      },
-      "shortDescription": {
-        "it": "Il giardino-salotto di Roma, tra musei e laghetto.",
-        "en": "Rome's living-room park, with museums and a lake."
       },
       "description": {
         "it": "Il più celebre parco di Roma unisce viali alberati, giardini all'italiana, un laghetto con tempietto e numerosi musei. Ideale per una pausa, una pedalata o un picnic con vista dal Pincio.",
@@ -2364,11 +2015,7 @@
               }
             ]
           }
-        ],
-        "note": {
-          "it": "Sempre accessibile; orari indicativi.",
-          "en": "Always accessible; hours are indicative."
-        }
+        ]
       },
       "admission": {
         "free": true
@@ -2384,22 +2031,7 @@
         "galleria-borghese",
         "piazza-del-popolo",
         "piazza-di-spagna"
-      ],
-      "details": {
-        "category": "park",
-        "facilities": {
-          "it": "Noleggio bici, laghetto, aree gioco, bar",
-          "en": "Bike rental, lake, playgrounds, cafés"
-        },
-        "extension": {
-          "it": "Circa 80 ettari",
-          "en": "About 80 hectares"
-        },
-        "seasonality": {
-          "it": "Aperto tutto l'anno",
-          "en": "Open all year"
-        }
-      }
+      ]
     },
     {
       "id": "villa-doria-pamphilj",
@@ -2407,10 +2039,6 @@
       "name": {
         "it": "Villa Doria Pamphilj",
         "en": "Villa Doria Pamphilj"
-      },
-      "shortDescription": {
-        "it": "Il parco pubblico più grande di Roma.",
-        "en": "Rome's largest public park."
       },
       "description": {
         "it": "Un tempo tenuta nobiliare, oggi è un'oasi di pini, prati e fontane amata da chi corre e dalle famiglie. Al centro il seicentesco Casino del Bel Respiro con i suoi giardini segreti.",
@@ -2509,22 +2137,7 @@
       "relatedPoiIds": [
         "santa-maria-in-trastevere",
         "orto-botanico"
-      ],
-      "details": {
-        "category": "park",
-        "facilities": {
-          "it": "Percorsi running, laghetti, bar",
-          "en": "Running paths, ponds, café"
-        },
-        "extension": {
-          "it": "Circa 184 ettari",
-          "en": "About 184 hectares"
-        },
-        "seasonality": {
-          "it": "Aperto tutto l'anno",
-          "en": "Open all year"
-        }
-      }
+      ]
     },
     {
       "id": "giardino-degli-aranci",
@@ -2532,10 +2145,6 @@
       "name": {
         "it": "Giardino degli Aranci",
         "en": "Orange Garden"
-      },
-      "shortDescription": {
-        "it": "Una terrazza profumata con vista su Roma.",
-        "en": "A fragrant terrace overlooking Rome."
       },
       "description": {
         "it": "Sul colle Aventino, il Parco Savello deve il nome agli aranci amari che lo popolano. Dalla terrazza si gode uno dei tramonti più romantici sulla cupola di San Pietro; poco distante, il celebre buco della serratura.",
@@ -2634,22 +2243,7 @@
       "relatedPoiIds": [
         "santa-maria-in-trastevere",
         "campidoglio"
-      ],
-      "details": {
-        "category": "park",
-        "facilities": {
-          "it": "Terrazza panoramica",
-          "en": "Panoramic terrace"
-        },
-        "extension": {
-          "it": "Circa 7.800 m²",
-          "en": "About 7,800 m²"
-        },
-        "seasonality": {
-          "it": "Aperto tutto l'anno",
-          "en": "Open all year"
-        }
-      }
+      ]
     },
     {
       "id": "orto-botanico",
@@ -2657,10 +2251,6 @@
       "name": {
         "it": "Orto Botanico di Roma",
         "en": "Rome Botanical Garden"
-      },
-      "shortDescription": {
-        "it": "Dodici ettari di piante ai piedi del Gianicolo.",
-        "en": "Twelve hectares of plants at the foot of the Janiculum."
       },
       "description": {
         "it": "Nei giardini di Palazzo Corsini, l'Orto Botanico raccoglie collezioni di bambù, palme, felci e un roseto storico. Un rifugio verde e didattico a due passi da Trastevere.",
@@ -2736,15 +2326,10 @@
               }
             ]
           }
-        ],
-        "note": {
-          "it": "Chiuso il lunedì.",
-          "en": "Closed on Mondays."
-        }
+        ]
       },
       "admission": {
-        "free": false,
-        "priceFrom": 4
+        "free": false
       },
       "tags": [
         "giardino",
@@ -2755,22 +2340,7 @@
       "relatedPoiIds": [
         "santa-maria-in-trastevere",
         "villa-doria-pamphilj"
-      ],
-      "details": {
-        "category": "park",
-        "facilities": {
-          "it": "Serre, roseto, area bambù",
-          "en": "Greenhouses, rose garden, bamboo grove"
-        },
-        "extension": {
-          "it": "Circa 12 ettari",
-          "en": "About 12 hectares"
-        },
-        "seasonality": {
-          "it": "Collezioni variabili per stagione",
-          "en": "Collections vary by season"
-        }
-      }
+      ]
     },
     {
       "id": "parco-degli-acquedotti",
@@ -2778,10 +2348,6 @@
       "name": {
         "it": "Parco degli Acquedotti",
         "en": "Park of the Aqueducts"
-      },
-      "shortDescription": {
-        "it": "Acquedotti romani in un paesaggio da cartolina.",
-        "en": "Roman aqueducts in a postcard landscape."
       },
       "description": {
         "it": "Parte del Parco dell'Appia Antica, deve il nome ai maestosi acquedotti che lo attraversano. Prati, pini e arcate millenarie ne fanno un set cinematografico amato da fotografi e corridori.",
@@ -2880,22 +2446,7 @@
       "relatedPoiIds": [
         "foro-romano",
         "colosseo"
-      ],
-      "details": {
-        "category": "park",
-        "facilities": {
-          "it": "Percorsi a piedi e in bici",
-          "en": "Walking and cycling paths"
-        },
-        "extension": {
-          "it": "Circa 240 ettari",
-          "en": "About 240 hectares"
-        },
-        "seasonality": {
-          "it": "Aperto tutto l'anno",
-          "en": "Open all year"
-        }
-      }
+      ]
     },
     {
       "id": "piazza-navona",
@@ -2903,10 +2454,6 @@
       "name": {
         "it": "Piazza Navona",
         "en": "Piazza Navona"
-      },
-      "shortDescription": {
-        "it": "Il salotto barocco di Roma sull'antico stadio di Domiziano.",
-        "en": "Rome's Baroque drawing room over Domitian's ancient stadium."
       },
       "description": {
         "it": "Sull'impianto dell'antico stadio di Domiziano, la piazza è dominata dalla Fontana dei Quattro Fiumi del Bernini e dalla chiesa di Sant'Agnese del Borromini. Tra artisti di strada e caffè storici, è il cuore della Roma barocca.",
@@ -2940,27 +2487,7 @@
         "pantheon",
         "san-luigi-dei-francesi",
         "castel-sant-angelo"
-      ],
-      "details": {
-        "category": "architecture",
-        "type": {
-          "it": "Piazza",
-          "en": "Square"
-        },
-        "epoch": {
-          "it": "XVII secolo",
-          "en": "17th century"
-        },
-        "architect": {
-          "it": "Bernini, Borromini",
-          "en": "Bernini, Borromini"
-        },
-        "interiorsVisitable": false,
-        "curiosity": {
-          "it": "Segue la forma dell'antico stadio del I secolo.",
-          "en": "It follows the shape of the 1st-century stadium."
-        }
-      }
+      ]
     },
     {
       "id": "piazza-di-spagna",
@@ -2968,10 +2495,6 @@
       "name": {
         "it": "Piazza di Spagna",
         "en": "Piazza di Spagna"
-      },
-      "shortDescription": {
-        "it": "La scalinata di Trinità dei Monti e la barcaccia.",
-        "en": "The Spanish Steps and the Barcaccia fountain."
       },
       "description": {
         "it": "La celebre scalinata settecentesca sale verso la chiesa di Trinità dei Monti, mentre ai suoi piedi zampilla la Barcaccia di Pietro Bernini. Punto d'incontro elegante tra vie dello shopping e atelier d'artista.",
@@ -3004,23 +2527,7 @@
         "fontana-di-trevi",
         "piazza-del-popolo",
         "villa-borghese"
-      ],
-      "details": {
-        "category": "architecture",
-        "type": {
-          "it": "Piazza e scalinata",
-          "en": "Square and stairway"
-        },
-        "epoch": {
-          "it": "XVIII secolo",
-          "en": "18th century"
-        },
-        "interiorsVisitable": false,
-        "curiosity": {
-          "it": "La scalinata ha 135 gradini.",
-          "en": "The stairway has 135 steps."
-        }
-      }
+      ]
     },
     {
       "id": "campidoglio",
@@ -3028,10 +2535,6 @@
       "name": {
         "it": "Piazza del Campidoglio",
         "en": "Capitoline Square"
-      },
-      "shortDescription": {
-        "it": "La piazza disegnata da Michelangelo sul colle capitolino.",
-        "en": "Michelangelo's square on the Capitoline Hill."
       },
       "description": {
         "it": "Michelangelo ridisegnò la sommità del colle creando una piazza armoniosa con la sua celebre pavimentazione stellata e i palazzi che oggi ospitano i Musei Capitolini. Al centro, la copia della statua equestre di Marco Aurelio.",
@@ -3064,23 +2567,7 @@
         "musei-capitolini",
         "foro-romano",
         "altare-della-patria"
-      ],
-      "details": {
-        "category": "architecture",
-        "type": {
-          "it": "Piazza",
-          "en": "Square"
-        },
-        "epoch": {
-          "it": "XVI secolo",
-          "en": "16th century"
-        },
-        "architect": {
-          "it": "Michelangelo",
-          "en": "Michelangelo"
-        },
-        "interiorsVisitable": false
-      }
+      ]
     },
     {
       "id": "piazza-del-popolo",
@@ -3088,10 +2575,6 @@
       "name": {
         "it": "Piazza del Popolo",
         "en": "Piazza del Popolo"
-      },
-      "shortDescription": {
-        "it": "Grande piazza neoclassica con obelisco egizio.",
-        "en": "A grand neoclassical square with an Egyptian obelisk."
       },
       "description": {
         "it": "Porta monumentale d'accesso alla città, è incorniciata dalle chiese gemelle e dominata da un obelisco di oltre tremila anni. Da qui partono le tre vie del tridente; la terrazza del Pincio offre una vista memorabile.",
@@ -3124,27 +2607,7 @@
         "piazza-di-spagna",
         "villa-borghese",
         "maxxi"
-      ],
-      "details": {
-        "category": "architecture",
-        "type": {
-          "it": "Piazza",
-          "en": "Square"
-        },
-        "epoch": {
-          "it": "XIX secolo",
-          "en": "19th century"
-        },
-        "architect": {
-          "it": "Giuseppe Valadier",
-          "en": "Giuseppe Valadier"
-        },
-        "interiorsVisitable": false,
-        "curiosity": {
-          "it": "Santa Maria del Popolo custodisce due Caravaggio.",
-          "en": "Santa Maria del Popolo holds two Caravaggios."
-        }
-      }
+      ]
     },
     {
       "id": "altare-della-patria",
@@ -3152,10 +2615,6 @@
       "name": {
         "it": "Altare della Patria",
         "en": "Altar of the Fatherland"
-      },
-      "shortDescription": {
-        "it": "Il monumento bianco a Vittorio Emanuele II.",
-        "en": "The white monument to Victor Emmanuel II."
       },
       "description": {
         "it": "Imponente costruzione in marmo bianco affacciata su Piazza Venezia, ospita il Milite Ignoto e terrazze panoramiche raggiungibili in ascensore. Dalla cima lo sguardo abbraccia i Fori e i tetti del centro.",
@@ -3243,11 +2702,7 @@
         ]
       },
       "admission": {
-        "free": true,
-        "note": {
-          "it": "Ascensore panoramico a pagamento.",
-          "en": "Panoramic lift requires a ticket."
-        }
+        "free": true
       },
       "tags": [
         "panorama",
@@ -3258,27 +2713,7 @@
         "campidoglio",
         "musei-capitolini",
         "foro-romano"
-      ],
-      "details": {
-        "category": "architecture",
-        "type": {
-          "it": "Monumento",
-          "en": "Monument"
-        },
-        "epoch": {
-          "it": "XX secolo",
-          "en": "20th century"
-        },
-        "architect": {
-          "it": "Giuseppe Sacconi",
-          "en": "Giuseppe Sacconi"
-        },
-        "interiorsVisitable": true,
-        "curiosity": {
-          "it": "Inaugurato nel 1911 per i 50 anni d'Italia.",
-          "en": "Inaugurated in 1911 for Italy's 50th anniversary."
-        }
-      }
+      ]
     },
     {
       "id": "quartiere-coppede",
@@ -3286,10 +2721,6 @@
       "name": {
         "it": "Quartiere Coppedè",
         "en": "Coppedè District"
-      },
-      "shortDescription": {
-        "it": "Un angolo fiabesco tra Liberty e fantasia.",
-        "en": "A fairytale corner of Art Nouveau and fantasy."
       },
       "description": {
         "it": "Progettato da Gino Coppedè negli anni Venti, questo piccolo quartiere mescola Liberty, barocco e motivi medievali in palazzine stravaganti, archi e la Fontana delle Rane. Un set surreale lontano dalle folle.",
@@ -3319,27 +2750,7 @@
       "relatedPoiIds": [
         "villa-borghese",
         "maxxi"
-      ],
-      "details": {
-        "category": "architecture",
-        "type": {
-          "it": "Quartiere",
-          "en": "District"
-        },
-        "epoch": {
-          "it": "XX secolo",
-          "en": "20th century"
-        },
-        "architect": {
-          "it": "Gino Coppedè",
-          "en": "Gino Coppedè"
-        },
-        "interiorsVisitable": false,
-        "curiosity": {
-          "it": "Set di film horror e d'autore.",
-          "en": "A set for horror and arthouse films."
-        }
-      }
+      ]
     },
     {
       "id": "armando-al-pantheon",
@@ -3347,10 +2758,6 @@
       "name": {
         "it": "Armando al Pantheon",
         "en": "Armando al Pantheon"
-      },
-      "shortDescription": {
-        "it": "Trattoria storica di cucina romana, dal 1961.",
-        "en": "A historic Roman trattoria, since 1961."
       },
       "description": {
         "it": "A pochi passi dal Pantheon, una piccola trattoria di famiglia che difende la tradizione romana: cacio e pepe, coda alla vaccinara, abbacchio. Pochi coperti, prenotazione quasi obbligatoria.",
@@ -3437,17 +2844,12 @@
               }
             ]
           }
-        ],
-        "note": {
-          "it": "Chiuso domenica; sabato solo pranzo.",
-          "en": "Closed Sunday; Saturday lunch only."
-        }
+        ]
       },
       "admission": {
         "free": true
       },
       "website": "https://www.armandoalpantheon.it",
-      "phone": "+39 06 6880 3034",
       "tags": [
         "cucina-romana"
       ],
@@ -3455,20 +2857,7 @@
         "pantheon",
         "santa-maria-sopra-minerva",
         "roscioli"
-      ],
-      "details": {
-        "category": "restaurant",
-        "cuisine": {
-          "it": "Romana tradizionale",
-          "en": "Traditional Roman"
-        },
-        "priceTier": "€€",
-        "reservationRecommended": true,
-        "diet": [
-          "vegetarian"
-        ],
-        "terrace": false
-      }
+      ]
     },
     {
       "id": "roscioli",
@@ -3476,10 +2865,6 @@
       "name": {
         "it": "Roscioli Salumeria con Cucina",
         "en": "Roscioli Salumeria con Cucina"
-      },
-      "shortDescription": {
-        "it": "Salumeria gourmet e cucina nel cuore del centro.",
-        "en": "A gourmet deli and kitchen in the heart of the centre."
       },
       "description": {
         "it": "Tra scaffali di salumi, formaggi e vini, Roscioli serve una carbonara tra le più celebri di Roma e taglieri d'eccellenza. Ambiente intimo e curatissimo: meglio prenotare.",
@@ -3579,17 +2964,12 @@
               }
             ]
           }
-        ],
-        "note": {
-          "it": "Chiuso la domenica.",
-          "en": "Closed on Sundays."
-        }
+        ]
       },
       "admission": {
         "free": true
       },
       "website": "https://www.salumeriaroscioli.com",
-      "phone": "+39 06 687 5287",
       "tags": [
         "cucina-romana"
       ],
@@ -3597,20 +2977,7 @@
         "piazza-navona",
         "armando-al-pantheon",
         "pantheon"
-      ],
-      "details": {
-        "category": "restaurant",
-        "cuisine": {
-          "it": "Romana e gourmet",
-          "en": "Roman and gourmet"
-        },
-        "priceTier": "€€€",
-        "reservationRecommended": true,
-        "diet": [
-          "vegetarian"
-        ],
-        "terrace": false
-      }
+      ]
     },
     {
       "id": "da-enzo-al-29",
@@ -3618,10 +2985,6 @@
       "name": {
         "it": "Da Enzo al 29",
         "en": "Da Enzo al 29"
-      },
-      "shortDescription": {
-        "it": "Autentica osteria trasteverina a conduzione familiare.",
-        "en": "An authentic family-run osteria in Trastevere."
       },
       "description": {
         "it": "Una manciata di tavoli in un vicolo di Trastevere per i grandi classici romani con ingredienti del territorio: cacio e pepe, polpette, fiori di zucca. Si fa la fila, ma ne vale la pena.",
@@ -3721,16 +3084,11 @@
               }
             ]
           }
-        ],
-        "note": {
-          "it": "Chiuso la domenica. No prenotazioni serali.",
-          "en": "Closed Sunday. No evening reservations."
-        }
+        ]
       },
       "admission": {
         "free": true
       },
-      "phone": "+39 06 581 2260",
       "tags": [
         "cucina-romana",
         "trastevere"
@@ -3738,20 +3096,7 @@
       "relatedPoiIds": [
         "santa-maria-in-trastevere",
         "orto-botanico"
-      ],
-      "details": {
-        "category": "restaurant",
-        "cuisine": {
-          "it": "Romana tradizionale",
-          "en": "Traditional Roman"
-        },
-        "priceTier": "€€",
-        "reservationRecommended": false,
-        "diet": [
-          "vegetarian"
-        ],
-        "terrace": true
-      }
+      ]
     },
     {
       "id": "trapizzino-testaccio",
@@ -3759,10 +3104,6 @@
       "name": {
         "it": "Trapizzino",
         "en": "Trapizzino"
-      },
-      "shortDescription": {
-        "it": "Lo street food che incontra la cucina romana.",
-        "en": "Street food meets Roman home cooking."
       },
       "description": {
         "it": "Nato a Testaccio, il trapizzino è un triangolo di pizza croccante farcito con i grandi sughi della tradizione, dal pollo alla cacciatora alle polpette. Veloce, sfizioso e tutto romano.",
@@ -3838,11 +3179,7 @@
               }
             ]
           }
-        ],
-        "note": {
-          "it": "Chiuso il lunedì.",
-          "en": "Closed on Mondays."
-        }
+        ]
       },
       "admission": {
         "free": true
@@ -3855,20 +3192,7 @@
       "relatedPoiIds": [
         "giardino-degli-aranci",
         "da-enzo-al-29"
-      ],
-      "details": {
-        "category": "restaurant",
-        "cuisine": {
-          "it": "Street food romano",
-          "en": "Roman street food"
-        },
-        "priceTier": "€",
-        "reservationRecommended": false,
-        "diet": [
-          "vegetarian"
-        ],
-        "terrace": false
-      }
+      ]
     },
     {
       "id": "pizzarium",
@@ -3876,10 +3200,6 @@
       "name": {
         "it": "Pizzarium Bonci",
         "en": "Pizzarium Bonci"
-      },
-      "shortDescription": {
-        "it": "La pizza al taglio gourmet di Gabriele Bonci.",
-        "en": "Gabriele Bonci's gourmet pizza by the slice."
       },
       "description": {
         "it": "Vicino ai Musei Vaticani, il tempio della pizza al taglio romana: impasti ad alta idratazione e topping creativi e stagionali, da gustare in piedi. Un must per chi ama il lievitato.",
@@ -3977,21 +3297,7 @@
       "relatedPoiIds": [
         "musei-vaticani",
         "san-pietro"
-      ],
-      "details": {
-        "category": "restaurant",
-        "cuisine": {
-          "it": "Pizza al taglio",
-          "en": "Pizza by the slice"
-        },
-        "priceTier": "€",
-        "reservationRecommended": false,
-        "diet": [
-          "vegetarian",
-          "vegan"
-        ],
-        "terrace": false
-      }
+      ]
     },
     {
       "id": "gelateria-dei-gracchi",
@@ -3999,10 +3305,6 @@
       "name": {
         "it": "Gelateria dei Gracchi",
         "en": "Gelateria dei Gracchi"
-      },
-      "shortDescription": {
-        "it": "Gelato artigianale con ingredienti naturali.",
-        "en": "Artisanal gelato made with natural ingredients."
       },
       "description": {
         "it": "Storica gelateria di Prati, propone gusti realizzati con materie prime selezionate, frutta di stagione e cioccolato di qualità, senza coloranti. Una sosta golosa vicino al Vaticano.",
@@ -4100,22 +3402,7 @@
       "relatedPoiIds": [
         "pizzarium",
         "castel-sant-angelo"
-      ],
-      "details": {
-        "category": "restaurant",
-        "cuisine": {
-          "it": "Gelateria artigianale",
-          "en": "Artisanal gelato"
-        },
-        "priceTier": "€",
-        "reservationRecommended": false,
-        "diet": [
-          "vegetarian",
-          "vegan",
-          "gluten-free"
-        ],
-        "terrace": false
-      }
+      ]
     }
   ]
 }
